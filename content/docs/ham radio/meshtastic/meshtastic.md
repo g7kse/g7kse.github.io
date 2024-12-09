@@ -1,6 +1,5 @@
 ---
 title: Meshtastic
-title: Meshtastic Bulletin Board
 date: 2023-11-29
 description: Meshtastic decentralised messaging network
 author: Alex

@@ -60,8 +60,8 @@ So now you've got the parts. The rest is just a straightforward build, start by 
 
 Add the crimp eyes (pro tip - just crimp enough to close the gap and then solder in place) and bolt the coil up. I checked the inductance with my LCR meter. Just for reference this is the value I got was just under 24uH.
 
-![Coil under test](/coil1.png#centre)
-![Finished coil](/coil2.png#centre)
+![Coil under test](coil1.png#centre)
+![Finished coil](coil2.png#centre)
 
 ## 10m band Hentenna
 

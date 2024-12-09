@@ -30,7 +30,7 @@ Another tool is [Street Complete](https://streetcomplete.app/). This android app
 
 You don't have to, but OSM is used in lots of places, so improving accuracy should be a normal thing to do. Especially if you see there's a problem that you can fix in a few seconds. Its just a nice thing to do
 
-![Open Street Map](/iD.png#centre)
+![Open Street Map](iD.png#centre)
 
 This is pretty basic stuff and thgere are a [load of tutorials](https://duckduckgo.com/?q=osm+id+editor&t=newext&atb=v404-1&iax=videos&ia=videos) on how to use the basic toosl like OSM ID, which is pretty much what I use all the time.
 

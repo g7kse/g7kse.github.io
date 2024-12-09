@@ -17,9 +17,9 @@ The couple of years I was involved with the project, the primary mission was to 
 
 So here's a bit of stuff that I collected. The basic breadboard details are below with super basic RX, TX and TX code with GPS for the primary mission. Using teh Picos and circuit python
 
-![TX Board](/txboard.jpg#cente)
+![TX Board](txboard.jpg#cente)
 
-![RX Board](/rxboard.jpg#cente)
+![RX Board](rxboard.jpg#cente)
 
 
 ### Receiver code
@@ -260,7 +260,7 @@ So here's a bit of stuff that I collected. The basic breadboard details are belo
 
 By far and away the nicest way to handle the data was in json format. This meant it was easily handled by external applications and so dashboards can be made up which look pretty impressive. The students used [Serial Studio](https://serial-studio.github.io/) which worked a treat. A bit hard for some to get their heads round but it runs on a RPi or a laptop, gives great visuals and shows how data can be handled. I'm sure it can be done with other tools but this was the one we used. Probably be easy to do in PowerBI or Tableau but that wasn't the plan
 
-![Serial Studio](/serial.png#cente)
+![Serial Studio](serial.png#cente)
 
 ### Dev boards
 

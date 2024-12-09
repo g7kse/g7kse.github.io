@@ -17,4 +17,4 @@ tags:
 This one is a bit of work in progress. It shouldn't be hard to complete so I've put thi splaceholder in for when its done....I promise I'll do it :grinning:
 
 
-![VLF Upconverter circuit](/vlfup.png#centre)
+![VLF Upconverter circuit](vlfup.png#centre)

@@ -1,8 +1,8 @@
 ---
 
-title: HamTool
+title: Maidenhead
 type: docs
-prev: docs/coding/HamTool
+prev: hamtool
 
 ---
 

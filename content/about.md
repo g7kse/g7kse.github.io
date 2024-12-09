@@ -14,4 +14,4 @@ I am active on Mastodon as [@g7kse](https://mastodon.radio/@g7kse) and a member 
 
 If you hear me on the bands, and its CW, chances are I'll be portable and will be very keen to have a contact. At home it is more challenging but well worth it. My CW skills aren't amazing but its fun to have a go. Even in the CWT contests.
 
-![Me on a fell somewhere](/static/profile.jpg)
+![Me on a fell somewhere](profile.jpg)

@@ -25,10 +25,13 @@ menu:
       pageRef: /about
       weight: 2
     - name: Contact ↗
-      url: "https://mastodon.radio@g7kse"
+      url: "https://mastodon.radio/@g7kse"
       weight: 3
-    - name: Search
+    - name: 3D Prints
+      url: "https://www.printables.com/@g7kse_197848"
       weight: 4
+    - name: Search
+      weight: 5
       params:
         type: search
 

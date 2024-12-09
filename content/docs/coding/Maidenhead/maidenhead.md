@@ -6,7 +6,7 @@ prev: hamtool
 
 ---
 
-This little snippet of code is handy for showing maidenhead locator from a GPS input. It uses tje TinyGPS++ library to do th eheavy lifting with just a small spot of maths to calculate the maidenhead locator. Just watch out for LCD pin connections and the GPS baud and pinout value. I have no idea where the code came from, I'm 99% sure that I pinched most of it from somewhere else but can't attribute it because I did this 10 years ago.
+This little snippet of code is handy for showing maidenhead locator from a GPS input. It uses the [TinyGPS++]{http://arduiniana.org/libraries/tinygpsplus/} library to do the heavy lifting with just a small spot of maths to calculate the maidenhead locator. Just watch out for LCD pin connections and the GPS baud and pinout value. I have no idea where the code came from, I'm 99% sure that I pinched most of it from somewhere else but can't attribute it because I did this 10 years ago.
 
 ```
 #include <TinyGPS++.h>

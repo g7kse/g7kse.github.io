@@ -1,5 +1,5 @@
 ---
-title: OSM
+title: Misc
 date: 2024-01-01
 description: Updating Open Street Maps
 author: Alex

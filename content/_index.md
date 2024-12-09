@@ -6,7 +6,7 @@ toc: false
 
 Some stuff that I've managed to do. Mostly to do with ham radio, but some other bits and pieces. It will awlays be incomplete :-)
 
-![QSL Card](QSL.png#centre)
+![QSL Card](qsl.png#centre)
 
 {{< cards >}}
   {{< card link="docs/ham-radio" title="Ham Radio" icon="microphone" >}}

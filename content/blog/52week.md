@@ -17,6 +17,6 @@ Well this wasn't going to be my first choice of task, but I decided to go with i
 
 I used CustomTKinter for the GUI and it was a bit of a learning curve but I got there in the end. I had to use a bit of coding AI to get the GUI to work but Here it is in all its glory...ready to be used or not :-) either way it could be improved I'm sure as part of a different task
 
-The code is in this Repo. If you want to help me understand how to make some of my other stuff work better then I'm open to offers. Particularly the HamTools stuff.
+The code is in [this Repo](https://github.com/g7kse/ham-challenege). If you want to help me understand how to make some of my other stuff work better then I'm open to offers. Particularly the HamTools stuff.
 
 1 down 51 to go...

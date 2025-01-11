@@ -15,7 +15,7 @@ Rather than have 1 post per week, I will be posting a weekly update on my progre
 
 Job done. The QSL card on the front page is mine...ordered some and so I'll have to use them now. The JoyPlot is the bit I'm keen on as it comes from the Joy Division album [Unknown Pleasures](https://en.wikipedia.org/wiki/Unknown_Pleasures) which was done by [Peter Saville](https://en.wikipedia.org/wiki/Peter_Saville_(designer)). There's a subtle red dot for the QTH and the font is [Acid](https://www.dafont.com/acid.font) and the logo's were just turned into single colour ones as opposed to multiple colours.
 
-### Week 2 - NCDXF Beacon Listening
+#### Week 2 - NCDXF Beacon Listening
 
 Another successful week. I hooked up the IC7300 to Mrs G7KSE's laptop (she wasn't impressed) to [Faros](https://www.dxatlas.com/Faros/) and let it do it's thing with the attic antennas. None of which are ideal for beacon monitoring. However the results were really surprising. Stuff that I thought I wouldn't hear came through quite clear. A typical plot is below
 

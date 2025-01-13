@@ -19,6 +19,6 @@ These are all the successful ones, there are many more that have been less succe
 {{< cards cols="2" >}}
   {{< card link="/docs/ham-radio/sota" title="SOTA" image="/docs/ham-radio/sota/sota.png" >}}
   {{< card link="/docs/ham-radio/wota" title="WOTA" image="/docs/ham-radio/wota/wota.png" >}}
-  {{< card link="/docs/ham-radio/freq" title="Short Wave Listening" image="/docs/ham-radio/swl/swl.png" >}}
-  {{< card link="/docs/ham-radio/saq" title="Grimeton (SAQ)" image="/docs/ham-radio/saq/saq.png" >}}
+  {{< card link="/docs/ham-radio/freq" title="Short Wave Listening" image="/docs/ham-radio/swl/swl.jpg" >}}
+  {{< card link="/docs/ham-radio/saq" title="Grimeton (SAQ)" image="/docs/ham-radio/saq/saq.jpg" >}}
 {{< /cards >}}

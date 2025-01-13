@@ -11,11 +11,13 @@ Very little of this is original...most of it is stuff that I've found and used a
 
 I prefer command line things to GUI's but not for everything. That would be weird. Mostly what I mess about with are really basic things that the more experienced will find trivial. Some of the stuff include:
 
-[!NOTE]
-Setting the time on my IC7300 because the battery is useless. this is a little script that I've adapted from someone elses work to set th etime using the command line
+> [!NOTE]
+> Setting the time on my IC7300 because the battery is useless. this is a little script that I've adapted from someone elses work to set th etime using the command line
 
-[!NOTE]
-Using the [MSF](https://en.wikipedia.org/wiki/Time_from_NPL_(MSF)) Anthorn time signal to create a simple clock using an Arduino. This was one of the first projects I did with Arduino and again, used someone elses work.
+> [!NOTE]
+> Using the [MSF](https://en.wikipedia.org/wiki/Time_from_NPL_(MSF)) Anthorn time signal to create a simple clock using an Arduino. 
+> This was one of the first projects I did with Arduino and again, used someone elses work.
 
-[!NOTE]
-A STEM project called [CANSAT](https://www.esa.int/Education/CanSat/What_is_a_CanSat) that used Raspberry Pi Pico boards and LoRa to send telemetry to a ground station from sensors. A great project 
+> [!NOTE]
+> A STEM project called [CANSAT](https://www.esa.int/Education/CanSat/What_is_a_CanSat) that used Raspberry Pi Pico boards and LoRa to send telemetry to a ground 
+> station from sensors. A great project.

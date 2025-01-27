@@ -9,7 +9,7 @@ tags:
   - 52 Week Challenge, 2025, Ham Radio
 ---
 
-Rather than have 1 post per week, I will be posting a weekly update on my progress in the 52 Week Challenge.
+Rather than have 1 post per week, I will be posting a weekly update on my progress in the [52 Week Challenge](https://hamchallenge.org/).
 
 #### Week 1 - Design a QSL card
 
@@ -23,4 +23,12 @@ Another successful week. I hooked up the IC7300 to Mrs G7KSE's laptop (she wasn'
 
 #### Week 3 - Make a contact with a different continent on 80m or 160m
 
-This is going to be hard. Not because of anything weird, just I don't have an 80m or 160m antenna. More to follow...
+This is going to be hard. Not because of anything weird, just I don't have an 80m or 160m antenna. But, this did coincide with our fortnightly [radio club](http://mx0wrc.org) meet up and a decent bit of propgation and a contact in Eurpoean Russia at 1285km. Not quite intercontinental but closer than I've been before.
+
+#### Week4 - Research the history of your callsign
+
+Pretty boring this one for me. I'm the only owner and I'll be keeping it for life. The only interesting part is that there aren't that many G7's. That part was reserved for those who didn't sit th emorse test and were confined to above 30MHz. Fine by me at th etime. Packet was more interesting as was SWL'ing.
+
+#### Week 5 - Update your profile on QRZ.com, HamQTH.com, etc.
+
+So I keep QSL pretty much up to date. But thgis website is another thing altogether. So the plan is to do a minor edit to QRZ and a focus on moving all the content that sits in all sorts of places onto this. thats a bit more useful I think.

@@ -21,7 +21,8 @@ For now I'm going to put the list in the [Notion database](https://g7kse.notion.
 ![1001 Films](1001.jpg#centre)
 
 ---
-<iframe src="https://g7kse.notion.site/Al-s-list-of-filums-1030ca5dfdd54b559b999f5cc7bb947b" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="800px" width="900px" allowfullscreen></iframe>
+
+<iframe src="https://g7kse.notion.site/ebd/5a78b36e1676439795012694c67bdfa3?v=80db8585dd3945ab9fa6f95c383bc077" width="100%" height="600" frameborder="0" allowfullscreen /></iframe>
 
 ---
 

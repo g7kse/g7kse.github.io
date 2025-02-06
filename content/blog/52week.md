@@ -32,3 +32,7 @@ Pretty boring this one for me. I'm the only owner and I'll be keeping it for lif
 #### Week 5 - Update your profile on QRZ.com, HamQTH.com, etc.
 
 So I keep QSL pretty much up to date. But thgis website is another thing altogether. So the plan is to do a minor edit to QRZ and a focus on moving all the content that sits in all sorts of places onto this. thats a bit more useful I think.
+
+#### Week 6 - Enter a contest
+
+I do this infrequently, not because I'm keen to score points but for short ones of an hour or so I kind of enjoy it. I've dipped in and out of CWT for a while but really wanted to give UKAC another go. I did it quite a bit when the kids were younger but I've not done it for a while....so close to a CW contact. Might have to go and do it again if kid transport isn't on

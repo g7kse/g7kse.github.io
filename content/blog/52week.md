@@ -36,3 +36,7 @@ So I keep QSL pretty much up to date. But thgis website is another thing altoget
 #### Week 6 - Enter a contest
 
 I do this infrequently, not because I'm keen to score points but for short ones of an hour or so I kind of enjoy it. I've dipped in and out of CWT for a while but really wanted to give UKAC another go. I did it quite a bit when the kids were younger but I've not done it for a while....so close to a CW contact. Might have to go and do it again if kid transport isn't on
+
+#### Week 7 - Where are the DXpeditions?
+
+Probably not one to tax many people. [DXWorld](https://www.dx-world.net/) has the list. I just never really get to contact them . Can't be bothered with the bear garden antics for this kind of contact. We'll elave this one as is I think.

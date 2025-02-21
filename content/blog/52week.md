@@ -40,3 +40,7 @@ I do this infrequently, not because I'm keen to score points but for short ones 
 #### Week 7 - Where are the DXpeditions?
 
 Probably not one to tax many people. [DXWorld](https://www.dx-world.net/) has the list. I just never really get to contact them . Can't be bothered with the bear garden antics for this kind of contact. We'll elave this one as is I think.
+
+#### Week 8 - Encourage someone to take their ham radio license exam
+
+I might have to come back to this. Whilst i've done it in the past and to be honest I don't know if that person is active at all, I have been more effective in introducing people to extra parts of the hobby. Like APRS, CW and stuff like SOTA. I still want to do the challenge but I'll need to find the right person.

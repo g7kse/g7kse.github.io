@@ -44,3 +44,23 @@ Probably not one to tax many people. [DXWorld](https://www.dx-world.net/) has th
 #### Week 8 - Encourage someone to take their ham radio license exam
 
 I might have to come back to this. Whilst i've done it in the past and to be honest I don't know if that person is active at all, I have been more effective in introducing people to extra parts of the hobby. Like APRS, CW and stuff like SOTA. I still want to do the challenge but I'll need to find the right person.
+
+#### Week 9 - Try to work an FM repeater on 10m
+
+Lucky me, on the first attempt when I was at home I tuned into the VE3MMX repeater. Not really expecting to work anyone, but it came in very strong and I made a couple of east Coast contacts with it. I checked back a day or so later, having posted my boast on Mastodon only to find that it was inaudible. Just lucky I guess and I've not heard it since!
+
+#### Week 10 - Listen to an amateur radio satellite
+
+Another straightforward one for me. SO-50 is an absolute bear garden at times so I listend rather than tried to transmit. Over the last few years I've tried to TX on it only to find it a bit of a pain, so give up quickly. So to expand this a littel I assembeled the Satellite dish I have in the garage and tried to listen to Oscar-100 with the LNB and RTL-SDR i have. Not a peep, so went round a friends to test it all on his permanent setup. Well it all worked fine. Just can't seem to get it to work at home. Which is a shame. More to come on that I'm sure.
+
+#### Week 11 - Receive a weather satellite image
+
+All this asatellite stuff. Dead easy, especially with [SatNOGS](www.satnogs.org) giving easy access to the APT satellites. To progress this a bit further I looked to improve my Wefax setup and failed at that. Although I have picked it up again and had some much better images using different software.
+
+#### Week 12 - Make a contact with an "unusual" antenna
+
+Going to come back to this one. I don't have a suitable tuner at the moment and don't want to kill off any PA, even if it is a rubbish rig. So will come back to this when I get a new toy.
+
+#### Week 13 - Make a QSO from an unusual location and post a picture!
+
+I've doen this a few times but need to to make this really unusual.The weatehr hasn't been ideal so I will probably need to figure something out as a SOTA summit or something that I call /p isn't quite unusual enough

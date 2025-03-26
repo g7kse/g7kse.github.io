@@ -15,4 +15,4 @@ So, the happy medium is something that Patrick, ON4CDJ pointed me towards today.
 
 The upshot of it is that I've now got a working setup with the GYA and DDK transmissions. I've also got some good images. Eventually I'll write this up so it can be repeated though. The key to it all is [JWX software](https://arachnoid.com/JWX/). Not much to set up but the images are excellent and it works acros te eusual platforms
 
-![Wefax image](/static/wefax.jpg#centre)
+![Wefax image](static/wefax.jpg#centre)

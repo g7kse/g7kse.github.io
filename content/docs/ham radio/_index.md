@@ -22,5 +22,3 @@ These are all the successful ones, there are many more that have been less succe
   {{< card link="/docs/ham-radio/swl" title="Short Wave Listening" image="/docs/ham-radio/swl/swl.png" >}}
   {{< card link="/docs/ham-radio/saq" title="Grimeton (SAQ)" image="/docs/ham-radio/saq/saq.png" >}}
 {{< /cards >}}
-
-content/docs/ham radio/swl/swl.png

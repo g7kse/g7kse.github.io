@@ -12,7 +12,6 @@ tags:
   - VLF
 ---
 
-
 Ham Radio is my main hobby, I've been involved in some way or another since the late 1980's. Here you will find some notes on projects that I've done.
 These are all the successful ones, there are many more that have been less successful. Someday I might write a few of these up. The main things that interest me are handily sorted into the cards below
 

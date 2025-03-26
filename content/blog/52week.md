@@ -19,7 +19,7 @@ Job done. The QSL card on the front page is mine...ordered some and so I'll have
 
 Another successful week. I hooked up the IC7300 to Mrs G7KSE's laptop (she wasn't impressed) to [Faros](https://www.dxatlas.com/Faros/) and let it do it's thing with the attic antennas. None of which are ideal for beacon monitoring. However the results were really surprising. Stuff that I thought I wouldn't hear came through quite clear. A typical plot is below
 
-[Faros plot](/P-2025-01-09.gif)
+[Faros plot](/img/P-2025-01-09.gif)
 
 #### Week 3 - Make a contact with a different continent on 80m or 160m
 

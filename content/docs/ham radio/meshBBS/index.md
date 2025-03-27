@@ -71,7 +71,7 @@ I've taken the list from the github readme and removed th efeatures that I have 
 | `whois` | Returns details known about node, more data with bbsadmin node | ✅ |
 
 #### Radio Propagation & Weather Forcasting
-| Command | Description | |
+| Command | Description | ✅ Works Off-Grid |
 |---------|-------------|-------------------
 | `hfcond` | Returns a table of HF solar conditions | |
 | `rlist` | Returns a table of nearby repeaters from RepeaterBook | |
@@ -80,7 +80,7 @@ I've taken the list from the github readme and removed th efeatures that I have 
 | `wx` and `wxc` | Return local weather forecast (wxc is metric value), NOAA or Open Meteo for weather forecasting | |
 
 #### Bulletin Board & Mail
-| Command | Description | |
+| Command | Description | ✅ Works Off-Grid |
 |---------|-------------|-
 | `bbshelp` | Returns the following help message | ✅ |
 | `bbslist` | Lists the messages by ID and subject | ✅ |
@@ -91,21 +91,21 @@ I've taken the list from the github readme and removed th efeatures that I have 
 | `bbslink` | Links Bulletin Messages between BBS Systems | ✅ |
 
 #### Data Lookup 
-| Command | Description | |
+| Command | Description | ✅ Works Off-Grid |
 |---------|-------------|-
 | `messages` | Replays the last messages heard, like Store and Forward | ✅ |
 | `readnews` | returns the contents of a file (news.txt, by default) via the chunker on air | ✅ |
 | `wiki:` | Searches Wikipedia and returns the first few sentences of the first result if a match. Example: `wiki: lora radio` |
 
 #### CheckList
-| Command | Description | |
+| Command | Description | ✅ Works Off-Grid |
 |---------|-------------|-
 | `checkin` | Check in the node to the checklist database, you can add a note like `checkin ICO` or `checkin radio4` | ✅ |
 | `checkout` | Checkout the node in the checklist database, checkout all from node | ✅ |
 | `checklist` | Display the checklist database, with note | ✅ |
 
 #### Games (via DM)
-| Command | Description | |
+| Command | Description | ✅ Works Off-Grid |
 |---------|-------------|-
 | `blackjack` | Plays Blackjack (Casino 21) | ✅ |
 | `dopewars` | Plays the classic drug trader game | ✅ |
@@ -119,4 +119,4 @@ I've taken the list from the github readme and removed th efeatures that I have 
 
 ### Web Interface
 
-there is a web interface available through a local web server that I've not investigated thoughly yet
+There is a web interface available through a local web server that I've not investigated thoughly yet

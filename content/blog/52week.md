@@ -64,3 +64,33 @@ Going to come back to this one. I don't have a suitable tuner at the moment and 
 #### Week 13 - Make a QSO from an unusual location and post a picture!
 
 I've doen this a few times but need to to make this really unusual.The weatehr hasn't been ideal so I will probably need to figure something out as a SOTA summit or something that I call /p isn't quite unusual enough
+
+#### Week 14 - Implement and describe a backup solution for your ham radio log.
+
+I'm not overly fussed about my log book. I use [QLog](https://github.com/foldynl/QLog) for logging when at home and mixture of paper and phone logging apps for when out xOTA. In the end the logs end up back in QLog. This programme does the backup for me and teh adif is also syncronised to a NAS. If I lose it all I won't worry too much. There's plenty of opportunity to look to the future rather than the past
+
+#### Week 15 - Monitor a transmission and take notes of the field strength
+
+Still need to do this formally, however the simple response would be that I look ast MSF and DCF VLF transmissions regularly to see how things are going, which antenna works best and to basically listen to the beeps.
+
+#### Week 16  - Make a contact with a xOTA station.
+
+I've been 'doing' [SOTA](https://www.sota.org.uk/) and [WOTA](https://www.wota.org.uk/) for a long time now. Over a decade, so I have a few contacts to draw on. But for this I did a microwave activation on [High Stile](https://sotl.as/summits/G/LD-012) and managed 5 QSO's before moving to other bands. 13cm was the band I used to qualify the summit and I found out that these QSO's need to be first in the log for the SOTA database to recognise them as a 'microwave' activation. Something I'd not done in the past
+
+#### Week 17 - Which VHF/UHF repeater is closest to your location?
+
+Closest is GM3MX, best signal is GB3GD on the IoM. Despite MX being just a few miles away we are the opposite side of a hill, so very low signal at my end. I can access through a MMDVM but don't tend to. So maybe I should try and build a longer term solution that has a MMDVM hat running all the time.
+
+
+#### Week 18 - Make a QSO in one digital voice mode.
+
+Back to the MMDVM hat here. I do have CFM on the home VHF rig and have only had a handful of QSO's on it, most of which were through repeaters, I don't think these count. Alternatively I used LoRa APRS TXRX for general xOTA tracking, so that coounts as well.
+
+
+#### Week 19 - Simulate an antenna!
+
+
+#### Week 20 - Decode the RTTY transmission of DWD on 10101 kHz
+
+I need to remember this...FLdigi settings are 450Hz shift, 50 bd, 5N1. Simple reception
+![DWD](/img/DWD.png#centre)

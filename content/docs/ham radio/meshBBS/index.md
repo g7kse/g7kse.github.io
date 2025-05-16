@@ -52,9 +52,13 @@ Here is a link to [SpudGunMan's Meshing Around](https://github.com/SpudGunMan/me
 
 After a bit of trial and error I have setted on [Meshing Around](https://github.com/SpudGunMan/meshing-around). I have a [Heltec E213 EInk LoRa node](https://heltec.org/project/vision-master-e213/) called BBS. This is conencted to the RPi through my local network using its Hostname. Access to it is really simple, it currently works through direct messaging but there may be a call to set up a specific channel but I can see problems with this tbh. Who wants to see 101 messages every time they connect rather than the ones that refer to themselves?
 
+I have, however set up a channel for the bot side of things called 'BBSBot' that will send the schedueld messages that i'm setting up. Currently I'm just running something that gives the weather and sunrise / sunset times for my location. these schedueld messages might be useful for things like the club net or something like that. the trouble is that it only works through RF at the moment and my QTH doesn't really support good RF paths to anywhere other than the west. The difficulty there is its wet in the west. Wet until you hit the Isle of Man to be honest. Anyway, the QR code is below if you're in the mood for some Bot action.
+
+![BBS Bot](/img/BBSBot.png#centre)
+
 **Commands**
 
-I've taken the list from the github readme and removed th efeatures that I have currently diabled. There is quite a lot that aren't shown by the `cmd` function as you can see
+I've taken the list from the github readme and removed the features that I have currently diabled. There is quite a lot that aren't shown by the `cmd` function as you can see
 
 #### Networking
 | Command | Description | ✅ Works Off-Grid |

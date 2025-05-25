@@ -26,9 +26,16 @@ Firstly the PCB is pretty small, and the components themselves are tiny. But as 
 
 3. Add the trimmer and everything else bar the big LED's. Take care with these items they can be fiddly, especially to get round the right way. If you get it wrong. Don't panic. Use a solder sucker and/or some braid to remove the part and re-orientate. They can be a bit hard to see. In one case I used my reading glasses and a pair of magnifying glasses to get it right. Younger eyes will find it easier :-)
 
-### Out in the wild
+### Putting it together
 
+Putting the PCB into something that is useable is a bit of personal taste. The way that O built the PCB meant that it was always going to be a bit of a faff putting it all together. But I spalshed out on some Amphenol BNC's. One [male] (https://www.mouser.co.uk/ProductDetail/Amphenol-RF/112420?qs=1K%2FD%252BSl2CTOLNb0ei7RBhA%3D%3D) and one [female](https://www.mouser.co.uk/ProductDetail/Amphenol-RF/031-221-RFX?qs=VT5nbRQnyKuxG2JZp560oA%3D%3D) for either end of the case which is in my usual [OnShape](https://cad.onshape.com/documents/25a7a58303e5026c50307cd4/w/ebefe86fd32db31f32a9281f/e/fa13cd15473f041620c5da2e) for 3D CAD
 
-{{< callout type="warning" >}}
-  Nothing to see here just yet. Give me a chance!
-{{< /callout >}}
+![TinySWR case CAD drawing](/img/tinyswr_cad.png#centre)
+
+Before its all assembled, make sure it works, and works correctly. The small trimmer is there to make sure its not reading too high or low. Mine needed a little adjustment, so that the Yellow LED indicates that RF is flowing and the first red LED just about lights up as it tends towards an SWR of 1.5:1. I wish I had some proper calibration standards for this stuff to be honest. I did have some but they went to a better home as I didn't really use them, kind of regret it now.
+
+Anyway the final build is a little fiddly but here it is, in all its finished glory
+
+![TinySWR in case with bottom off](/img/tinyswr1.jpg#centre)
+
+![TinySWR in case complete](/img/tinyswr2.jpg#centre)

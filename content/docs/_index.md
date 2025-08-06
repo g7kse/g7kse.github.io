@@ -19,8 +19,8 @@ It should be pretty obvious but. There is stuff on..
 
 {{< cards cols ="2">}}
   {{< card link="ham-radio" title="Ham Radio" icon="microphone" >}}
-  {{< card link="/raspberry-pi" title="Raspberry Pi" icon="desktop-computer" >}}
-  {{< card link="/coding" title="Rubbish Code" icon="code" >}}
-  {{< card link="/misc" title="Other Stuff" icon="book-open" >}}
+  {{< card link="raspberry-pi" title="Raspberry Pi" icon="desktop-computer" >}}
+  {{< card link="coding" title="Rubbish Code" icon="code" >}}
+  {{< card link="misc" title="Other Stuff" icon="book-open" >}}
 {{< /cards >}}
 

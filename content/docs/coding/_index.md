@@ -20,11 +20,15 @@ Very little of this is original...most of it is stuff that I've found and used a
 
 I prefer command line things to GUI's but not for everything. That would be weird. Mostly what I mess about with are really basic things that the more experienced will find trivial. Some of the stuff include:
 
-> [!NOTE]
-> Setting the time on my IC7300 because the battery is useless. this is a little script that I've adapted from someone else's work to set the time.
+### A few things that I wanted to do
 
-> [!NOTE]
-> Using the [MSF](https://en.wikipedia.org/wiki/Time_from_NPL_(MSF)) Anthorn time signal to create a simple clock using an Arduino. 
+HamTools is a simple collection of scripts, written in Python that display stuff on the console. It isn't polished at all and the look and feel needs a lot of work but thats for later on
+![HamTool](/img/hamtool.png)#centre
 
-> [!NOTE]
-> A STEM project called [CANSAT](https://www.esa.int/Education/CanSat/What_is_a_CanSat) that used Raspberry Pi Pico boards and LoRa to send telemetry.
+[x] Setting the time on my IC7300 because the battery is useless. [I adapted an existing script for me](https://github.com/g7kse/HamTool/blob/main/set_time.py)
+[x] Calculate the distance and bearing of 2 Maidenhead locators. A bit of help on this one but the [script works](https://github.com/g7kse/HamTool/blob/main/maidenhead.py)
+[x] Make a little [menu](https://github.com/g7kse/HamTool/blob/main/main.py) system
+[ ] Adapter POTA and SOTA code to look the same
+[ ] Make a lookup for [CWOps callsigns](https://github.com/g7kse/HamTool/blob/main/cwops.py)
+
+There are all sorts of things that could be put in there as the image suggests. Quite a few are outside my capability. So I'll do what I can, when I can.

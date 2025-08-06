@@ -17,8 +17,10 @@ This ia a bit of a notebook more than anything else. i have loads of things just
 
 It should be pretty obvious but. There is stuff on..
 
-1. [Ham Radio](https://g7kse.co.uk/docs/ham-radio/) - my main hobby
-2. [Raspberry Pi](https://g7kse.co.uk/docs/raspberrypi/) & various microcontroller type things
-3. [Coding](https://g7kse.co.uk/docs/coding/) - Snippets and bits I use
-4. [Misc](https://g7kse.co.uk/docs/misc/) -  Mostly reference material for things like decarbonisation and general non techie things
+{{< cards >}}
+  {{< card link="docs/ham-radio" title="Ham Radio" icon="microphone" >}}
+  {{< card link="docs/raspberry-pi" title="Raspberry Pi" icon="desktop-computer" >}}
+  {{< card link="docs/coding" title="Rubbish Code" icon="code" >}}
+  {{< card link="docs/misc" title="Other Stuff" icon="book-open" >}}
+{{< /cards >}}
 

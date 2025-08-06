@@ -1,7 +1,7 @@
 ---
 title: Some of this might be useful
 date: 2024-09-28
-description: A home for me
+description: A home for me and my stuff
 author: Alex
 tags:
   - docs
@@ -18,10 +18,8 @@ Most of this site is centred around my Amateur Radio activities. The [About Me](
 {{< cards >}}
   {{< card link="docs/ham-radio" title="Ham Radio" icon="microphone" >}}
   {{< card link="docs/raspberry-pi" title="Raspberry Pi" icon="desktop-computer" >}}
-  {{< card link="docs/stem/cansat" title="CANSAT" icon="academic-cap" >}}
   {{< card link="docs/coding" title="Rubbish Code" icon="code" >}}
   {{< card link="docs/misc" title="Other Stuff" icon="book-open" >}}
-  {{< card link="docs/sport" title="Outdoors" icon="map" >}}
 {{< /cards >}}
 
 I've created this site using [Hugo](https://gohugo.io) and [GitHub pages](https://pages.github.com). This is specifically to reduce the size of the site and increase the speed. Some of it might not work perfectly but if I can do it so can you 😁

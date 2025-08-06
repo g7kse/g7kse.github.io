@@ -1,6 +1,13 @@
 ---
 title: About
-toc: false
+date: 2024-09-28
+description: About me
+author: Alex
+tags:
+  - docs
+  - g7kse
+sidebar:
+  open: false
 ---
 
 

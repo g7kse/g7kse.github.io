@@ -17,10 +17,10 @@ This ia a bit of a notebook more than anything else. i have loads of things just
 
 It should be pretty obvious but. There is stuff on..
 
-{{< cards >}}
-  {{< card link="docs/ham-radio" title="Ham Radio" icon="microphone" >}}
-  {{< card link="docs/raspberry-pi" title="Raspberry Pi" icon="desktop-computer" >}}
-  {{< card link="docs/coding" title="Rubbish Code" icon="code" >}}
-  {{< card link="docs/misc" title="Other Stuff" icon="book-open" >}}
+{{< cards cols ="2">}}
+  {{< card link="ham-radio" title="Ham Radio" icon="microphone" >}}
+  {{< card link="/raspberry-pi" title="Raspberry Pi" icon="desktop-computer" >}}
+  {{< card link="/coding" title="Rubbish Code" icon="code" >}}
+  {{< card link="/misc" title="Other Stuff" icon="book-open" >}}
 {{< /cards >}}
 

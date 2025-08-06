@@ -15,7 +15,7 @@ Most of this site is centred around my Amateur Radio activities. The [About Me](
 
 ![QSL Card](qsl.png#centre)
 
-{{< cards >}}
+{{< cards cols="2" >}}
   {{< card link="docs/ham-radio" title="Ham Radio" icon="microphone" >}}
   {{< card link="docs/raspberry-pi" title="Raspberry Pi" icon="desktop-computer" >}}
   {{< card link="docs/coding" title="Rubbish Code" icon="code" >}}

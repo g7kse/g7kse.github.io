@@ -10,6 +10,7 @@ tags:
   - VHF
   - microwaves
   - VLF
+weight: 1
 ---
 
 Ham Radio is my main hobby, I've been involved in some way or another since the late 1980's. Here you will find some notes on projects that I've done.

@@ -1,6 +1,6 @@
 ---
 title: 52 Week Challenge
-date: 2025-01-11
+date: 2025-08-06
 authors:
   - name: alex
     link: https://github.com/g7kse

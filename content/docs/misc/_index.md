@@ -5,7 +5,7 @@ description: Updating Open Street Maps
 author: Alex
 tags:
   - energy
-  - hydrogne
+  - hydrogen
   - sustainability
   - maps
 ---

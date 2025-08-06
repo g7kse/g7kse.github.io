@@ -1,11 +1,11 @@
 ---
 title: CW decoders
 date: 2024-09-28
-description: Fun with 13cm
+description: A bit about CW decoders I've made for fun
 author: Alex
 type: docs
-prev: docs/radio
-next: docs/sota
+prev: docs/13cm
+next: docs/flowerpot
 tags:
   - CW
   - CW Academy

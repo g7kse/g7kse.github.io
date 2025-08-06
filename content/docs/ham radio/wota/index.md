@@ -4,8 +4,8 @@ date: 2023-09-28
 description: Just different summits...mostly with radio but also with Hannah
 author: Alex
 type: docs
-prev: /sota
-next: /flowerpot
+prev: /VLF Upconverter
+next:
 tags:
   - WOTA
   - portable

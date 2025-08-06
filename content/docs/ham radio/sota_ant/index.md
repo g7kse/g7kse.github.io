@@ -5,7 +5,7 @@ decription: A few antennas that I'm mucking about with for SOTA and /P
 author: Alex
 type: docs
 prev: /sota
-next: /wota
+next: /swl
 tags:
   - radio
   - sota

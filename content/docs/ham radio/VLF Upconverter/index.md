@@ -1,10 +1,10 @@
 ---
-title: VLF Uconverter
+title: VLF Upconverter
 date: 2025-03-01
-description: A VLF (Very Low Frequency) Uconverter for SAQ
+description: A VLF (Very Low Frequency) Upconverter for SAQ
 type: docs
-prev: /patchloop
-next: /saq
+prev: /trusdx
+next: /wota
 tags:
   - VLF
   - SAQ
@@ -12,9 +12,8 @@ tags:
 ---
 
 {{< callout type="warning" >}}
-  This one is a bit of work in progress. It shouldn't be hard to complete so I've put thi splaceholder in for when its done....I promise I'll do it
+  This one is a bit of work in progress. It shouldn't be hard to complete so I've put this placeholder in for when its done....I promise I'll do it :-)
 {{< /callout >}}
-This one is a bit of work in progress. It shouldn't be hard to complete so I've put thi splaceholder in for when its done....I promise I'll do it :grinning:
 
 
 ![VLF Upconverter circuit](vlfup.png#centre)

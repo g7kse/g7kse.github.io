@@ -1,6 +1,14 @@
 ---
 title: Coding
+date: 2024-09-28
+description: A little bit of code. Only a little bit...it's not my thing but if needs must and all that
+author: Alex
 type: docs
+next: docs/hamtool
+tags:
+  - code
+  - python
+  - ESP32
 sidebar:
   open: false
 ---

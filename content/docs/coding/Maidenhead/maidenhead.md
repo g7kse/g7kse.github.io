@@ -1,9 +1,16 @@
 ---
 
 title: Maidenhead
+date: 2024-09-28
+description: A try at manipulating maidenhead locators using python
+author: Alex
 type: docs
-prev: hamtool
-
+prev: docs/hamtool
+next: docs/msftime
+tags:
+  - python
+  - ham radio
+  - coding
 ---
 
 This little snippet of code is handy for showing maidenhead locator from a GPS input. It uses the [TinyGPS++]{http://arduiniana.org/libraries/tinygpsplus/} library to do the heavy lifting with just a small spot of maths to calculate the maidenhead locator. Just watch out for LCD pin connections and the GPS baud and pinout value. I have no idea where the code came from, I'm 99% sure that I pinched most of it from somewhere else but can't attribute it because I did this 10 years ago.

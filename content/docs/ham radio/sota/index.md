@@ -4,7 +4,7 @@ date: 2019-01-01
 author: Alex Hill
 description: Summits and radio, what's not to like (apart from the rain)?
 type: docs
-prev: /flowerpot
+prev: /patchloop
 next: /sota_ant
 tags:
   - radio

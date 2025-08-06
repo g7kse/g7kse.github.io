@@ -6,7 +6,9 @@ authors:
     link: https://github.com/g7kse
     image: https://avatars.githubusercontent.com/u/13124178?v=4
 tags:
-  - 52 Week Challenge, 2025, Ham Radio
+  - 52 Week Challenge
+  - 2025
+  - Ham Radio
 ---
 
 Rather than have 1 post per week, I will be posting a weekly update on my progress in the [52 Week Challenge](https://hamchallenge.org/).

@@ -4,8 +4,8 @@ date: 2024-09-28
 description: Amazing VLF station at Grimeton
 author: Alex
 type: docs
-prev: docs/swl
-next: docs/vlfup
+prev: docs/patchloop
+next: docs/sota
 tags:
   - SAQ
   - VLF

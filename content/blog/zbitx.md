@@ -6,7 +6,9 @@ authors:
     link: https://github.com/g7kse
     image: https://avatars.githubusercontent.com/u/13124178?v=4
 tags:
-  - HF, Radio
+  - HF
+  - Radio
+  -zBitX
 excludeSearch: true
 ---
 The [zBitX](https://www.hfsignals.com/index.php/zbitx/) is a software defined radio (SDR) project that comes from teh the 'Bit' stable of HF radio. The specs and details can be found on the link so I'm not going to repeat them here. Needless to say I'm writing about it because I bought one.

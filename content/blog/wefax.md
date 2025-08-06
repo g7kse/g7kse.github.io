@@ -6,7 +6,10 @@ authors:
     link: https://github.com/g7kse
     image: https://avatars.githubusercontent.com/u/13124178?v=4
 tags:
-  - weather, Wefax, Shortwave, Ham Radio
+  - weather
+  - Wefax
+  - Shortwave
+  - Ham Radio
 ---
 
 For a few years I've dipped into Wefax. I like the idea of a receiver trotting along and generating images from sound. I suppose it is a bit nostalgic but there's something nicer about investing in a result rather than jusy turning it on. Setting up a reciever and decoding software to optimise the picture, only to be presented with a fuzzy output isn't entirely awesome either.

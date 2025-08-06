@@ -4,8 +4,8 @@ date: 2024-04-08
 decription: Mucking about with the (tr)uSDX case
 author: Alex Hill
 type: docs
-prev: /sota
-next: /sota_ant
+prev: /tinyswr
+next: /VLF Upconverter
 tags:
   - build
   - kit

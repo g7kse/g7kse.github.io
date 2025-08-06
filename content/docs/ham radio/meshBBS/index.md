@@ -4,8 +4,8 @@ date: 2023-11-29
 description: Cool bulletin board software for Meshtastic
 author: Alex
 type: docs
-prev: /lora_aprs
-next: /meshtastic
+prev: /meshtastic
+next: /meshBBS
 tags:
     - LoRa
     - packet

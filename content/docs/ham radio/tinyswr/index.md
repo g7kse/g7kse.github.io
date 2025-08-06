@@ -4,8 +4,8 @@ date: 2024-04-10
 description: A pretty small SWR meter - glasses on!
 author: Alex Hill
 type: docs
-prev: /sota
-next: /sota_ant
+prev: /swl
+next: /trusdx
 tags:
   - build
   - SWR

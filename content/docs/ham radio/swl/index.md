@@ -1,15 +1,15 @@
 ---
-title: swl
+title: Short Wave Listening
 date: 2025-01-01
 description: Short wave listening
 author: Alex
 type: docs
-prev: docs/radio
-next: docs/sota
+prev: sota_ant
+next: tinyswr
 tags:
-  - 13cm
-  - microwaves
-  - sota
+  - SWL
+  - Radio
+  - HF
 ---
 
 Shortwave Listening (SWL) is really what I like the most. I do enjoy making contacts but have always been a fan of receivers. In fact right now I'm using a Lowe HF225 to listen to BBC Radio 4 on 198kHz Long Wave, just before its due to be turned off. I could easily listen to teh live stream through my phone on the BBC iPlayer or something like that but this doesn't give any real pleasure. Sure, the programming is the same and the sound quality is probably better but there's something about the crackle of static and the hiss of the bands that is nostalgic. Like listening to Radio Tirana in the 1980's telling me that I'ma western imperialist pig or something like that.

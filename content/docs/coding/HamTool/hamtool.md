@@ -1,9 +1,15 @@
 ---
-
 title: HamTool
+date: 2024-09-28
+description: A way of collecting a few ham related python scripts. Its a bit clunky mind you
+author: Alex
 type: docs
-prev: docs/coding/
-
+prev: docs/coding
+next: docs/maidenhead
+tags:
+  - python
+  - ham radio
+  - coding
 ---
 
 HamTool is a simple application - Its nothing special and I'm sure the way its done could be done better. But, its something that wasn't there before as far as I can tell. The main emphasis is....

@@ -5,7 +5,7 @@ description: The never ending goal of error free morse code
 author: Alex
 type: docs
 prev: /meshtatsic
-next: /cw_decoders
+next: /patchloop
 tags:
   - CW
   - CWOps

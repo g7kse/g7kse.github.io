@@ -6,7 +6,9 @@ authors:
     link: https://github.com/g7kse
     image: https://avatars.githubusercontent.com/u/13124178?v=4
 tags:
-  - Website
+  - APRS
+  - Meshtastic
+  - LoRa
 excludeSearch: true
 ---
 

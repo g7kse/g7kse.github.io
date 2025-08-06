@@ -4,7 +4,7 @@ date: 2023-11-29
 description: Inexpensive APRS Tracker & iGate using LoRa modules
 author: Alex
 type: docs
-prev: /meshBBS
+prev: /flowerpot
 next: /meshtastic
 tags:
     - LoRa

@@ -4,8 +4,8 @@ date: 2023-09-30
 description: Using a 3D printer to make a decent antenna for 2m SOTA
 author: Alex
 type: docs
-prev: /sota
-next: /wota
+prev: /cwdecoders
+next: /lora_aprs
 tags:
     - sota
     - antenna

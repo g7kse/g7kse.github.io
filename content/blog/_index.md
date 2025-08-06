@@ -18,6 +18,4 @@ sidebar:
 {{< /hextra/hero-badge >}}
 </div>
 
-The blog is here to compliment the projects. Most of the useful stuff will be in the Projects documentation but here you'll find some stuff that is 'time based'. There's room in the world for proper blogs. If you want micro blogging then the fediverse is where the cool kids hang out.I use the [mastodon.radio](https://mastodon.radio/home) server. Feel free to join me and the others there.
-
-I can be contacted through XMPP on the same server
+The blog is here to compliment the projects. Most of the useful stuff will be in the Projects documentation but here you'll find some stuff that is 'time based'. There's room in the world for proper blogs. If you want micro blogging then the fediverse is where the cool kids hang out.I use the [mastodon.radio](https://mastodon.radio/home) server. Feel free to join me and the others there. I can be contacted through XMPP on the same server

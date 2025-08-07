@@ -13,9 +13,9 @@ tags:
 
 This is a bit of library documentation. CANSAT is a project from ESA for 6th Form and Undergraduate students to build a 'satellite' that will be launched using a model rocket. the project has a primary and secondary mission. the primary being stipulated and the secondary being a choice.
 
-The couple of years I was involved with the project, the primary mission was to measure the temperature and humidity of the atmosphere within the satellite. pretty straightforward stuff. the bit that the studenst struggeld a bit with was programming the RPi Pico, making up SMA cables and dealing with the data once it came back to the ground station.
+The couple of years I was involved with the project, the primary mission was to measure the temperature and humidity of the atmosphere within the satellite. pretty straightforward stuff. the bit that the students struggled a bit with was programming the RPi Pico, making up SMA cables and dealing with the data once it came back to the ground station.
 
-So here's a bit of stuff that I collected. The basic breadboard details are below with super basic RX, TX and TX code with GPS for the primary mission. Using teh Picos and circuit python
+So here's a bit of stuff that I collected. The basic breadboard details are below with super basic RX, TX and TX code with GPS for the primary mission. Using teh Picos and circuit python [Code](https://codeberg.org/g7kse/CanSat) is in my [Codeberg](https://codeberg.org/g7kse) space, but it's dead simple so if you don't want to fork it, then just copy it from below.
 
 ![TX Board](txboard.jpg#cente)
 

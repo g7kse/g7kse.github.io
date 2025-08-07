@@ -163,7 +163,11 @@ He He...easy peasy. Love a bit of [WeFax](https://g7kse.co.uk/blog/wefax/)
 
 #### Week 41 - Write a poem on your biggest ham radio pet peeve!
 
-#### Week 42 - Receive a SSTV image
+#### Week 42 - Receive a SSTV image (S)
+
+Wow what a faff Linux can be some times. Tried using QSSTV but could not get it to load up the USB audio. So used a Windows 10 VM and MMSSTV and finally got a decode. Couldn't get it to transmit from MMSSTV so maybe something to add on to the to do list for the future (when I have a free year or so - sort out linux sound :-))
+
+![SSTV Image](/img/sstv.jpg#centre)
 
 #### Week 43 - Create a 3D printable design related to ham radio (S)
 

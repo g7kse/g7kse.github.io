@@ -15,4 +15,4 @@ tags:
   Nothing to see here just yet. Give me a chance!
 {{< /callout >}}
 
-![13cm](13cm.jpg#centre)
+![13cm](/img/13cm.jpg#centre)

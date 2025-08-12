@@ -129,7 +129,11 @@ Using GM3SEK's advice in his [Clean Up Your Shack](https://gm3sek.com/2019/10/11
 
 #### Week 27 - Listen to the July 2025 SAQ transmission ❌
 
-#### Week 28 - Receive a station on 6m via sporadic E ❌
+#### Week 28 - Receive a station on 6m via sporadic E ✅
+
+SSB Es has eluded me for a little while. But FT8 is pretty straightforward. In fact the only transatlantic 6m QSO I've had was made using FT8. So lots of European stations to be heard today and the magic band was doing its magic. It would be nice to get an SSB or CW QSO, so perhaps time to check RBN
+
+1[Sporadic E](/img/Es.png#centre)
 
 #### Week 29 - Make your own xOTA activation ✅
 

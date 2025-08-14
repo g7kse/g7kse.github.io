@@ -18,7 +18,7 @@ Then start your journey and enjoy it (apart from Independence Day...I still have
 
 For now I'm going to put the list in the [Notion database](https://g7kse.notion.site/Al-s-list-of-filums-1030ca5dfdd54b559b999f5cc7bb947b) its already in until I find a way of doing it like this in Hugo
 
-![1001 Films](1001.jpg#centre)
+![1001 Films](/img/1001.jpg#centre)
 
 ---
 

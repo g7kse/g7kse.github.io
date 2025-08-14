@@ -18,8 +18,8 @@ I don't have a laser cutter but used to have access to one. Not much cop, so had
 
 Link to the [designs on github are here](https://codeberg.org/g7kse/trusdx_case). feel free to pinch and adapt...p.s. I forgot how much I disliked 2D CAD after a decade on 3D CAD :-)
 
-![Front panel](tru_front.jpg#cente)
+![Front panel](/img/tru_front.jpg#cente)
 
-![Rear panel](tru_back.jpg#cente)
+![Rear panel](/img/tru_back.jpg#cente)
 
 I think they look ok. No comments on the toroids please :-)

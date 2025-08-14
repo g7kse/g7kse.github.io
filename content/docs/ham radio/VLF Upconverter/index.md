@@ -16,4 +16,4 @@ tags:
 {{< /callout >}}
 
 
-![VLF Upconverter circuit](vlfup.png#centre)
+![VLF Upconverter circuit](/img/vlfup.png#centre)

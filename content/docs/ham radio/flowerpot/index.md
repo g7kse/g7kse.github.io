@@ -42,7 +42,7 @@ I use a browser based bit of software called [Onshape](https://cad.onshape.com/d
 
 So here is a quick picture of it finished with a flat-ish SWR curve around 1.6:1 in free space. A bit more when its on the floor as you can see here.
 
-![Flowerpot base design](model.png#centre)
+![Flowerpot base design](/img/model.png#centre)
 
 [STL's are on Printables](https://www.printables.com/model/312517-flowerpot-antenna)
 
@@ -70,5 +70,5 @@ So here is a quick picture of it finished with a flat-ish SWR curve around 1.6:1
 
 All being well then it will work first time.If you want to optimise / fiddle about then test fit everything up to step 6 then once you are happy carry on and complete the job.
 
-![Flowerpot antenna and VNA scan](antenna.jpg#centre)
+![Flowerpot antenna and VNA scan](/img/antenna.jpg#centre)
 

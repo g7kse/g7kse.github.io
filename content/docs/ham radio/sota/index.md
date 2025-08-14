@@ -13,7 +13,7 @@ tags:
   - summits
 ---
 
-![SOTA logo](sota.png)
+![SOTA logo](/img/sota.png)
 
 [Summits on the air](https://www.sota.org.uk/) (SOTA) is a favourite of mine. Walking to the top of a local fell with a radio and 'activating' it is one of my favourite parts of amateur radio. The basic idea is climb to a summit, call CQ and get 4 contacts to qualify as an activation. Simple right?
 

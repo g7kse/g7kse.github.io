@@ -1,6 +1,6 @@
 ---
 title: Design
-date: 2025-09-01
+date: 2025-08-01
 description: A mechanical engineers attempt at product design
 author: Alex
 type: docs
@@ -64,59 +64,49 @@ Less, but better - because it concentrates on the essential aspects, and the pro
 
 You can find out a whole load more about Dieter Rams at his [foundation](https://rams-foundation.org/homepage/) and the fundamentals of his design in [Less is Better (Weniger, aber besser)](https://rams-foundation.org/magazine/publications/)
 
-### How I design things
+### Colours and Fonts
 
 Ok so I'm no Dieter Rams, but I can use his principles and pallette. I don't have his brain or resources, so I'll do things my way and learn. The colours are easy and a quick dip into your favourite search tool will give you loads. I bet you come across these done by [Chad Ashley](http://blog.presentandcorrect.com/rams-palettes)
 
-/**
- * Colours taken from Dieter Rams legendary production collection for Braun. Made by Chad Ashley.
- * Source: http://blog.presentandcorrect.com/rams-palettes
- * Demo: https://xaviesteve.com/pro/colorpalettes/
- * Try it: https://xaviesteve.com/pro/sass-palette/
- * Compiled by Xavi Esteve
- */
+Some items are really nice to look at and its unlikely that I'll ever get to DR standards, but I can use colours that meet his principles. These are commonly featured colours and some fonts I like to use for labels and things
 
-// DR06
+![Dieter Rams pallette](/img/DRpallette.png#centre)
 
-$yellow: #ed8008;
-$orange: #ed3f1c;
-$red: #bf1b1b;
-$green: #736b1e;
-$grey: #d9d2c6;
+---
 
-// DR01
+{{< figure
+  src="https://www.dafont.com/img/preview/a/c/acid0.png"
+  alt="Acid font from dafont.com"
+  link="https://www.dafont.com/acid.font"
+>}}
 
-$blue: #aab7bf;
-$brown: #736356;
-$grey: #bfb1a8;
-$red: #ad1d1d;
-$black: #261201;
+---
 
-// DR03
+{{< figure
+  src="https://www.dafont.com/img/preview/s/e/secret_code0.png"
+  alt="Secret Code font from dafont.com"
+  link="https://www.dafont.com/secret-code.font"
+>}}
 
-$orange: #bf7c2a;
-$brown-light: #c09c6f;
-$brown-dark: #5f503e;
-$grey: #9c9c9c;
-$white: #e1e4e1;
+---
 
-// DR04
+{{< figure
+  src="https://www.dafont.com/img/preview/i/n/instruction3.png"
+  alt="Instruction font from dafont.com"
+  link="https://www.dafont.com/instruction.font"
+>}}
 
-$green-dark: #84764b;
-$green-light: #b7b183;
-$black: #372e3d;
-$grey: #bcb3a6;
-$white: #dbd7d3;
+Fonts are a pretty personal choice and you can spend hours looking for the right one and may never ind it. These are the ones I go to first off then maybe change my mind later. If you want to go full Braun then try this:
 
-![Dieter Rams pallette](DRpallette.png#centre)
+{{< figure
+  src="https://www.iconwerk.com/images/bildschirmfoto%202022-09-28%20um%20192313.png"
+  alt="A new font for Braun"
+  link="https://www.iconwerk.com/braun-font.html"
+>}}
 
-### That's colour sorted. What about typography?
+The reality is that copying isn't really what I want to do so whilst it is great to see how others do stuff. Working through a preference for me is always going to vbe a compromise. Paying for a bespoke font isn't going to be an option, and trying to get close to an existing one feels cheap. So use use ethos but not the product.
 
-Tricky subject. I prefer monotype fonts for lots of ideas but here are a few I like
+#### Design Tools - CAD
 
-![Acid](https://www.dafont.com/img/preview/a/c/acid0.png)               [Acid](https://www.dafont.com/acid.font)
-![Secret Code](https://www.dafont.com/img/preview/s/e/secret_code0.png) [Secret Code](https://www.dafont.com/secret-code.font)
-![Instruction](https://www.dafont.com/img/preview/i/n/instruction3.png) [Instruction](https://www.dafont.com/instruction.font)
-
-#### Design Tools
-Onshape - Simple, Browser based and free for public designs. Of which [all of mine are.](https://cad.onshape.com/documents?resourceType=resourceuserowner&nodeId=5866d121cb4aa91057fc2bd0)
+![Onshape](https://cad.onshape.com/images/logo-onshape-gray-green.svg#left)
+Simple, Browser based and free for public designs. Of which [all of mine are.](https://cad.onshape.com/documents?resourceType=resourceuserowner&nodeId=5866d121cb4aa91057fc2bd0)

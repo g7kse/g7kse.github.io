@@ -17,8 +17,8 @@ Ham Radio is my main hobby, I've been involved in some way or another since the 
 These are all the successful ones, there are many more that have been less successful. Someday I might write a few of these up. The main things that interest me are handily sorted into the cards below
 
 {{< cards cols="2" >}}
-  {{< card link="/docs/ham-radio/sota" title="SOTA" image="/docs/ham-radio/sota/sota.png" >}}
-  {{< card link="/docs/ham-radio/wota" title="WOTA" image="/docs/ham-radio/wota/wota.png" >}}
-  {{< card link="/docs/ham-radio/swl" title="Short Wave Listening" image="/docs/ham-radio/swl/swl.png" >}}
-  {{< card link="/docs/ham-radio/saq" title="Grimeton (SAQ)" image="/docs/ham-radio/saq/saq.png" >}}
+  {{< card link="/docs/ham-radio/sota" title="SOTA" image="/img/sota.png" >}}
+  {{< card link="/docs/ham-radio/wota" title="WOTA" image="/img/wota.png" >}}
+  {{< card link="/docs/ham-radio/swl" title="Short Wave Listening" image="/img/swl.png" >}}
+  {{< card link="/docs/ham-radio/saq" title="Grimeton (SAQ)" image="/img/saq.png" >}}
 {{< /cards >}}

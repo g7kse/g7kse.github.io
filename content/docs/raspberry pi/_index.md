@@ -10,7 +10,7 @@ tags:
   - self hosting
 sidebar:
   open: false
-weight: 3
+weight: 4
 ---
 
 My Raspberry Pi collection started with the original Pi v1. Its not much use nowadays but the collection grew to include RPi v2,3,4 and now a 5 plus a couple of RPi zero's.

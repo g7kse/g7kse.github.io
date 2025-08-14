@@ -13,7 +13,7 @@ tags:
   - running
 sidebar:
   open: false
-weight: 4
+weight: 5
 ---
 
 I'm going to dump all sorts in here. Watch me..

@@ -1,6 +1,6 @@
 ---
 title: LM1
-date: 2025-09-01
+date: 2025-08-01
 description: A LoRa Meshtastic portable node enclosure and antenna design
 author: Alex
 type: docs

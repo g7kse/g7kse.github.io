@@ -23,6 +23,8 @@ Most of this site is centred around my Amateur Radio activities. The [About Me](
   {{< card link="docs/ham-radio" title="Ham Radio" icon="microphone" >}}
   {{< card link="docs/raspberry-pi" title="Raspberry Pi" icon="desktop-computer" >}}
   {{< card link="docs/coding" title="Rubbish Code" icon="code" >}}
+  {{< card link="docs/design" title="Design" icon="color-swatch" >}}
+  {{< card link="docs/fells" title="Fells" icon="map" >}}
   {{< card link="docs/misc" title="Other Stuff" icon="book-open" >}}
 {{< /cards >}}
 

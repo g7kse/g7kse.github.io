@@ -189,7 +189,11 @@ Done a few 3D prints for ham radio. I keep the useful ones on [Printables](https
 
 #### Week 45 - Fix something that is broken ❌
 
-#### Week 46 - Write a useful computer program! ❌
+#### Week 46 - Write a useful computer program! ✅
+
+This is rock hard for me. I've no real aptitude for coding and it took a lot of effort and help from others to make it work. The goal is to make a sort of Terminal Dashboard that one day might make it onto an ePaper display. First things first. I made a nice colour terminal output for the solar data that is found at hamqsl. Then turned that into bar graphs and a table. the output is pretty basic but fun. Many hours were used in this. Many
+
+![Solar Terminal Dashboard](/img/solar.png#centre)
 
 #### Week 47 - Submit an idea for the Ham Challenge 2026! ❌
 

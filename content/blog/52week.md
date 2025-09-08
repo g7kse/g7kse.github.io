@@ -159,9 +159,13 @@ Every time I make an HF contact at home it is with a home made antenna. A W3EDP 
 
 He He...easy peasy. Love a bit of [WeFax](https://g7kse.co.uk/blog/wefax/)
 
-#### Week 36 - Operate your whole station from battery power for one day ❌
+#### Week 36 - Operate your whole station from battery power for one day ✅
 
-#### Week 37 - Work 10 DXCCs on FT8 ❌
+I do this pretty regularly when on SOTA summits. Whilst there I might operate for 30 minutes to an hours, it certainly isn't a full day on the rig (something I rarely do at the best of times to be honest). so to make up the time a bit I sat outside in the garden until I had run out of time. 3 or 4 hours passed and the 2Ah battery on my MTR 5b and (t)ruSDX seemed to only go down to about 50%
+
+#### Week 37 - Work 10 DXCCs on FT8 ✅
+
+Made it..12 in total and 3 of these were on 6M. The best was to the US with the 4 ele beam. I don't think I'll jump to use the mode but it definitely has its place. I heard all sorts of stations, and worked a few, that I'd never normally get to hear. I can see the appeal but once the initial interest wore off, I found it less enjoyable that others seem to. Teh zBitx manages it really well so I'll use it as an additional mode from fell tops. My initial experience was that I couldn't complete a QSO for some reason up on the tops. Something to work on.
 
 #### Week 38 - Make a contact on Morse code ✅
 

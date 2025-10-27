@@ -1,6 +1,6 @@
 ---
 title: 52 Week Challenge
-date: 2025-08-06
+date: 2025-10-27
 authors:
   - name: alex
     link: https://github.com/g7kse
@@ -125,9 +125,13 @@ I think I've got this covered. In the past I've made contributions to the [Open 
 
 Using GM3SEK's advice in his [Clean Up Your Shack](https://gm3sek.com/2019/10/11/clean-up-your-shack-2019/) blog I went round the house to identify noise sources. There are always a few 'new' wall warts that are a bit noiser than others and I find that noise at my QTH is transitory around Christmas and Halloween with cheap Amazon tat that gets used for lights. 30m is always knackered compared to other bands and I guess this is ADSL but its been hard to prove it. Needless to say when we had a recent power cut it was beautifully quiet here.
 
-#### Week 26 - Observe the solar data such as sunspot number, flux, K and A values over the week ❌
+#### Week 26 - Observe the solar data such as sunspot number, flux, K and A values over the week ✅
 
-#### Week 27 - Listen to the July 2025 SAQ transmission ❌
+Well I've done this as part of the HamDash fun. I think I'm getting there with all of this stuff now. There are plenty of sites that have detailed breakdown including some clever WSPR and solar data dashboards on [Grafana](https://wspr.live/gui/d/WFd_VTPnz/band-compare-at-location?orgId=1&var-band=1&var-band=3&var-band=5&var-band=7&var-band=10&var-band=14&var-band=18&var-band=21&var-band=24&var-band=28&var-band=50&var-location=JO&var-mode=tx&var-notmode=rx&var-mindist=1&from=now-4d&to=now)
+
+#### Week 27 - Listen to the July 2025 SAQ transmission ✅
+
+It wasn't the July one, but the October UN day transmission I aimed for and despite there being nowt to hear at home I still managed to tune in via websdr and YouTube. Next up will be the Christmas Eve transmission with a bit of luck.
 
 #### Week 28 - Receive a station on 6m via sporadic E ✅
 
@@ -153,7 +157,9 @@ Like DD1MAT, I listened to the Antarctic broadcast from Ascension island and the
 
 Every time I make an HF contact at home it is with a home made antenna. A W3EDP at home and various end fed or vertical antennas for HF portable. The only commercial antenna I have for ham stuff is the white stick for VHF & UHF. Its been battered by the wind and a bit wonky now but still works fine. For xOTA VHF I use a flowerpot antenna that uses a [3D print](https://www.printables.com/model/312517-flowerpot-antenna) which is also my answer to HC43.
 
-#### Week 34 - Match an impedance ❌
+#### Week 34 - Match an impedance ✅
+
+Normal business for us EFHW users. Just a standard bit of kit does that
 
 #### Week 35 - Receive a weather fax transmission on HF ✅
 
@@ -175,7 +181,9 @@ Made several of these, when I do TX I tend to aim for CW and whilst my skills go
 
 Does Meshtastic count? if so then its a done deal. Otherwise my UHF LoRa APRS tracker is 100mW max. I've used a rockmite for a 30m CW QSO but that's nearer 300mW and hard on the ears 👂
 
-#### Week 40 - Which QSLing methods do you use, physical and electronic? ❌
+#### Week 40 - Which QSLing methods do you use, physical and electronic? ✅
+
+Physical cards, LotW and eQSL. Although I prefer the physical cards, despite them being well and truly out of fashion
 
 #### Week 41 - Write a poem on your biggest ham radio pet peeve! ❌
 
@@ -191,7 +199,9 @@ Done a few 3D prints for ham radio. I keep the useful ones on [Printables](https
 
 #### Week 44 - Receive a QRSS signal on the HF bands ❌
 
-#### Week 45 - Fix something that is broken ❌
+#### Week 45 - Fix something that is broken ✅
+
+My 30m QCX mini wasn't doing it for me until I realised the AGC circuit was cutting out all the audio. So after testing all the Op Amps I found all to be working fine. It was the setting that was causing the problem! So I guess there was some fault finding and fix
 
 #### Week 46 - Write a useful computer program! ✅
 

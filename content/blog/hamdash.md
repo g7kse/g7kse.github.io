@@ -20,10 +20,10 @@ So the natural progression was to turn this into something I could use on my und
 
 ![HamDash](/img/hamdash.jpg#centre)
 
-✅ - Basic menu
-❌ - PCB to interface switches that select menu items
-✅ - Layout of the screen
-🚧 - Solar data - stuff just isn't lining up right and I haven't added in the VHF stuff
-✅ - SOTA spots
-✅ - SOTA alerts
-❌ - Contest calendar
+✅ - Basic menu  
+❌ - PCB to interface switches that select menu items  
+✅ - Layout of the screen  
+🚧 - Solar data - stuff just isn't lining up right and I haven't added in the VHF stuff  
+✅ - SOTA spots  
+✅ - SOTA alerts  
+❌ - Contest calendar  

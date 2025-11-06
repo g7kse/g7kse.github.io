@@ -16,7 +16,6 @@ First things first. [Buy the book](https://www.waterstones.com/book/1001-movies-
 Then start your journey and enjoy it (apart from Independence Day...I still have no idea why that made it into the book). This is a simplified list for me to update every now and again. The List Challenge thing is pretty handy if you just want to keep it to yourself but its online and might not be there forever. I prefer Joplin for my notes so have a long version and the abridged version below with some basic notes...my 2021 edition of the book isn't pictured but features a scene from the 2021 film [Tenet](https://www.imdb.com/title/tt6723592/)
 
 ![1001 Films](/img/1001.jpg#centre)
-[Apply Sorting!](#)
 
 | **Year** | **Title** | **Directors** | **Run Time** | **URL** | **Watched** | **Notes** |
 | ---: | :--- | :--- | :--- | :--- | :--- | :--- |

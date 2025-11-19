@@ -36,8 +36,8 @@ Then start your journey and enjoy it (apart from Independence Day...I still have
 | 1922 | Nanook of the North | Robert J. Flaherty | 1h 18m | https://www.imdb.com/title/tt0013427/ | ✅   | Pretty sad, almost exploiting Nanook |
 | 1922 | The Great White Silence | Herbert G. Ponting | 1h 20m | https://www.imdb.com/title/tt1764657/ | ✅   |     |
 | 1922 | Häxan | Benjamin Christensen | 1h 31m | https://www.imdb.com/title/tt0013257/ | ✅   | Weird semi documentary, semi film. A reminder that religion is pretty stupid |
-| 1923 | La roue | Abel Gance | 6h 57m | https://www.imdb.com/title/tt0014417/ |     |     |
-| 1923 | Our Hospitality | John G. Blystone, Buster Keaton | 1h 05m | https://www.imdb.com/title/tt0014341/ |     |     |
+| 1923 | La roue | Abel Gance | 6h 57m | https://www.imdb.com/title/tt0014417/ |  ✅   |  Long, unforgivably long really as but I like looking behind whats in the centre screen. It really shows the era.   |
+| 1923 | Our Hospitality | John G. Blystone, Buster Keaton | 1h 05m | https://www.imdb.com/title/tt0014341/ |  ✅   | Brilliant bit of comedy. Simple, clever and really enjoyable to watch |
 | 1923 | La souriante Madame Beudet | Germaine Dulac | 0h 38m | https://www.imdb.com/title/tt0013626/ | ✅   | She should have shot him! |
 | 1924 | Sherlock Jr. | Buster Keaton | 0h 45m | https://www.imdb.com/title/tt0015324/ |     |     |
 | 1924 | Der letzte Mann | F.W. Murnau | 1h 17m | https://www.imdb.com/title/tt0015064/ |     |     |

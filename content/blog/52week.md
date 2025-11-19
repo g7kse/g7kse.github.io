@@ -197,7 +197,11 @@ Wow what a faff Linux can be some times. Tried using QSSTV but could not get it 
 
 Done a few 3D prints for ham radio. I keep the useful ones on [Printables](https://www.printables.com/@g7kse_197848) and am usually work (slowly) on something. Recently enclosures for APRS trackers or portable Meshtastic nodes have been taking up a bit of my time. These aren't particularly complex to design or print but making a common design has been a bit more time consuming than I had thought. 
 
-#### Week 44 - Receive a QRSS signal on the HF bands ❌
+#### Week 44 - Receive a QRSS signal on the HF bands ✅ 
+
+This took a bit of setting up. I tried with QRSSPiG but couldn't get the audio to pipe through so ended up with Argo on a windows machine. After some faffing with audio levels and dial frequencies I think it looks pretty good. Screenshot is from the 30m band.
+
+![QRSS screenshot](/img/qrss.gif#centre)
 
 #### Week 45 - Fix something that is broken ✅
 

@@ -17,6 +17,14 @@ Rather than have 1 post per week, I will be posting a weekly update on my progre
 🚧 is work in progress
 ❌ is not started
 
+End of Year Totals
+
+✅ 43
+🚧 3
+❌ 6
+
+Not too bad, perhaps missed a few opportunities but i wouldn't have done half the stuff I might have done if it wasn't for the challenge.
+
 #### Week 1 - Design a QSL card ✅
 
 Job done. The QSL card on the front page is mine...ordered some and so I'll have to use them now. The JoyPlot is the bit I'm keen on as it comes from the Joy Division album [Unknown Pleasures](https://en.wikipedia.org/wiki/Unknown_Pleasures) which was done by [Peter Saville](https://en.wikipedia.org/wiki/Peter_Saville_(designer)). There's a subtle red dot for the QTH and the font is [Acid](https://www.dafont.com/acid.font) and the logo's were just turned into single colour ones as opposed to multiple colours.
@@ -49,9 +57,9 @@ I do this infrequently, not because I'm keen to score points but for short ones 
 
 Probably not one to tax many people. [DXWorld](https://www.dx-world.net/) has the list. I just never really get to contact them . Can't be bothered with the bear garden antics for this kind of contact. We'll have this one as is I think.
 
-#### Week 8 - Encourage someone to take their ham radio license exam 🚧
+#### Week 8 - Encourage someone to take their ham radio license exam ✅
 
-I might have to come back to this. Whilst i've done it in the past and to be honest I don't know if that person is active at all, I have been more effective in introducing people to extra parts of the hobby. Like APRS, CW and stuff like SOTA. I still want to do the challenge but I'll need to find the right person.
+I might have to come back to this. Whilst i've done it in the past and to be honest I don't know if that person is active at all, I have been more effective in introducing people to extra parts of the hobby. Like APRS, CW and stuff like SOTA. I still want to do the challenge but I'll need to find the right person. GD4OFB now back in the game! Well done Richard...
 
 #### Week 9 - Try to work an FM repeater on 10m ✅
 
@@ -77,9 +85,9 @@ I've done this a few times but need to to make this really unusual.The weather h
 
 I'm not overly fussed about my log book. I use [QLog](https://github.com/foldynl/QLog) for logging when at home and mixture of paper and phone logging apps for when out xOTA. In the end the logs end up back in QLog. This programme does the backup for me and the adif is also syncronised to a NAS. If I lose it all I won't worry too much. There's plenty of opportunity to look to the future rather than the past.
 
-#### Week 15 - Monitor a transmission and take notes of the field strength 🚧
+#### Week 15 - Monitor a transmission and take notes of the field strength ✅
 
-Still need to do this formally, however the simple response would be that I look ast MSF and DCF VLF transmissions regularly to see how things are going, which antenna works best and to basically listen to the beeps.
+Still need to do this formally, however the simple response would be that I look ast MSF and DCF VLF transmissions regularly to see how things are going, which antenna works best and to basically listen to the beeps. Caught up and made some sensible measurements using a data mode (FreeDV)
 
 #### Week 16  - Make a contact with a xOTA station ✅
 
@@ -95,7 +103,9 @@ Closest is GM3MX, best signal is GB3GD on the IoM. Despite MX being just a few m
 Back to the MMDVM hat here. I do have CFM on the home VHF rig and have only had a handful of QSO's on it, most of which were through repeaters, I don't think these count. Alternatively I used LoRa APRS TXRX for general xOTA tracking, so that counts as well.
 
 
-#### Week 19 - Simulate an antenna ❌
+#### Week 19 - Simulate an antenna ✅
+
+The MMGAL software takes a bit of getting used to. I simulated my favoirute flowerpot antenna to test against a known result. It was a bit squiffy to say the least. Dipoles and other stuff was a basic ask, some of the more complicated ones must have geometries that this software isn't keen on. 
 
 
 #### Week 20 - Decode the RTTY transmission of DWD on 10101 kHz ✅
@@ -113,9 +123,10 @@ Wow, I think I've done this in the past but really couldn't remember doing it. I
 
 Ok so this one will be a bit of work in progress. I think I want to build a bandpass filter for either my APRS LoRa station or my Meshtastic one, just to see if it improves things. But this will need a bit more research I think as normal HF type filtering probably isn't the right thing, so maybe its not a great one for the first circuit. Either way I'll be using the recommended [CircuitLab](https://www.circuitlab.com/)
 
-#### Week 23 - How many language can you hear on the radio this week? ❌
+#### Week 23 - How many language can you hear on the radio this week? ✅
 
 TBD when I get a moment to turn the radio on properly. I suspect it'll be local Europeans on the ham bands and all sorts of languages on teh broadcast bands, I maybe need a translator to work out what they are :-).
+I used the non contest weekend for this and by far the main ones were the local Europeans, French, Germans, Spanish and Italians. So I went for Broadcast bands and the number of languages was way higher, Chinese, Turkish and loads I couldn't determine. I prefer the broadcast bands for stuff like this.
 
 #### Week 24 - Make a contribution to an Open Source ham radio software package ✅
 
@@ -143,7 +154,9 @@ SSB Es has eluded me for a little while. But FT8 is pretty straightforward. In f
 
 Been doing this a while. At some point I'll make it to mountain goat but thats not the motivation for me. I enjoy being on the Fells and whilst I'm not out as much as I was 3 years or so ago, I get out. Wainwrights and Summits are my usual targets but more recently I've done a couple of Parks, but there are just too many of them for me.
 
-#### Week 30 - Make a contact with another participant of the challenge ❌
+#### Week 30 - Make a contact with another participant of the challenge ✅
+
+I thought this would be simple. But is needed a sked in the end with Andreas, DJ3EI on JS8Call. An odd mode but fun, especially as Andreas did a load of work on the app
 
 #### Week 31 - Try a mode you have never tried before. Hellschreiber? JT65? ✅
 
@@ -215,11 +228,17 @@ This is rock hard for me. I've no real aptitude for coding and it took a lot of 
 
 #### Week 47 - Submit an idea for the Ham Challenge 2026! ❌
 
-#### Week 48 - Transmit a QRSS signal on the HF bands ❌
+#### Week 48 - Transmit a QRSS signal on the HF bands 🚧
+
+I didn't get much success on this, despite transmistting I couldn't tell if my signals were being modulated correctly and being received. I did manage to receive quite a few stations. I used the QCX mini for this and attempted the IC7300. I reckon its fun but limited in its use for me. The stations that were on a lot seem to do it all day every day
 
 #### Week 49 - Clean up your shack and post the most curious item you found ❌
 
-#### Week 50 - Receive an APRS message or beacon ❌
+My shack gets tidied all the time so can't claim this
+
+#### Week 50 - Receive an APRS message or beacon ✅
+
+This happens every day with the current VHF rigs. Too easy :-)
 
 #### Week 51 - Write something about ham radio with public impact ❌
 

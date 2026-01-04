@@ -21,7 +21,7 @@ A few partial and one total reset later and checking all the settings in the con
 
 With this all happening nicely I attempted to connected to an EI node that was pretty much un-obscured by land. And to my surprise to connected first time
 
-![QtTermTCP Connect](/img/Ei6IYB.png#centre)
+![QtTermTCP Connect](/img/EI5IYB.png#centre)
 
 And digging around I get this..an old school news thread. Nice!
 

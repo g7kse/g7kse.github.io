@@ -39,7 +39,7 @@ Another successful week. I hooked up the IC7300 to Mrs G7KSE's laptop (she wasn'
 
 #### Week 3 - Make a contact with a different continent on 80m or 160m 🚧
 
-This is going to be hard. Not because of anything weird, just I don't have an 80m or 160m antenna. But, this did coincide with our fortnightly [radio club](http://mx0wrc.org) meet up and a decent bit of propgation and a contact in Eurpoean Russia at 1285km. Not quite intercontinental but closer than I've been before.
+This is going to be hard. Not because of anything weird, just I don't have an 80m or 160m antenna. But, this did coincide with our fortnightly [radio club](http://mx0wrc.org) meet up and a decent bit of propagation and a contact in European Russia at 1285km. Not quite intercontinental but closer than I've been before.
 
 #### Week 4 - Research the history of your callsign ✅
 
@@ -105,7 +105,7 @@ Back to the MMDVM hat here. I do have CFM on the home VHF rig and have only had 
 
 #### Week 19 - Simulate an antenna ✅
 
-The MMGAL software takes a bit of getting used to. I simulated my favoirute flowerpot antenna to test against a known result. It was a bit squiffy to say the least. Dipoles and other stuff was a basic ask, some of the more complicated ones must have geometries that this software isn't keen on. 
+The MMGAL software takes a bit of getting used to. I simulated my favourite flowerpot antenna to test against a known result. It was a bit squiffy to say the least. Dipoles and other stuff was a basic ask, some of the more complicated ones must have geometries that this software isn't keen on. 
 
 
 #### Week 20 - Decode the RTTY transmission of DWD on 10101 kHz ✅
@@ -134,7 +134,7 @@ I think I've got this covered. In the past I've made contributions to the [Open 
 
 #### Week 25 - Locate local noise sources in your shack/flat/house ✅
 
-Using GM3SEK's advice in his [Clean Up Your Shack](https://gm3sek.com/2019/10/11/clean-up-your-shack-2019/) blog I went round the house to identify noise sources. There are always a few 'new' wall warts that are a bit noiser than others and I find that noise at my QTH is transitory around Christmas and Halloween with cheap Amazon tat that gets used for lights. 30m is always knackered compared to other bands and I guess this is ADSL but its been hard to prove it. Needless to say when we had a recent power cut it was beautifully quiet here.
+Using GM3SEK's advice in his [Clean Up Your Shack](https://gm3sek.com/2019/10/11/clean-up-your-shack-2019/) blog I went round the house to identify noise sources. There are always a few 'new' wall warts that are a bit noisier than others and I find that noise at my QTH is transitory around Christmas and Halloween with cheap Amazon tat that gets used for lights. 30m is always knackered compared to other bands and I guess this is ADSL but its been hard to prove it. Needless to say when we had a recent power cut it was beautifully quiet here.
 
 #### Week 26 - Observe the solar data such as sunspot number, flux, K and A values over the week ✅
 
@@ -230,7 +230,7 @@ This is rock hard for me. I've no real aptitude for coding and it took a lot of 
 
 #### Week 48 - Transmit a QRSS signal on the HF bands 🚧
 
-I didn't get much success on this, despite transmistting I couldn't tell if my signals were being modulated correctly and being received. I did manage to receive quite a few stations. I used the QCX mini for this and attempted the IC7300. I reckon its fun but limited in its use for me. The stations that were on a lot seem to do it all day every day
+I didn't get much success on this, despite transmitting I couldn't tell if my signals were being modulated correctly and being received. I did manage to receive quite a few stations. I used the QCX mini for this and attempted the IC7300. I reckon its fun but limited in its use for me. The stations that were on a lot seem to do it all day every day
 
 #### Week 49 - Clean up your shack and post the most curious item you found ❌
 

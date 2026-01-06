@@ -197,3 +197,8 @@ By no means and exhaustive list but links to things I found useful to read up on
 [Nino TNC - Information for building and operating](https://tarpn.net/t/nino-tnc/nino-tnc.html)  
 [Nino TNC UK supply through Hamserve](https://www.hamserve.uk/tarpn-ninotnc-n9600a/)  
 
+### Map of UK packet nodes (including APRS)
+
+---
+<iframe style="width: 100%; height: 900px; border: 0;" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/packet-nodes_1340087?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=true&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.fr/en/map/packet-nodes_1340087?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=true&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true">See full screen</a></p>
+---

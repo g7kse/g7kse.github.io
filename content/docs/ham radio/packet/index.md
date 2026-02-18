@@ -34,11 +34,11 @@ Lets break this down a bit so it all makes sense. These are the basic steps of w
 
 ✅ - No cost sound modem  
 ✅ - Preliminary Raspberry Pi node setup (LinBPQ)  
-🚧 - Hardware TNC buying/building  
-❌ - PMR Rig buying/setting up  
-❌ - RF testing at home  
-❌ - Coerce a few locals to try out the node  
-❌ - Linking to other nodes  
+✅ - Hardware TNC buying/building  
+✅ - PMR Rig buying/setting up  
+🚧 - RF testing at home  
+🚧 - Coerce a few locals to try out the node  
+✅ - Linking to other nodes  
 ❌ - Box it all up and set it to work  
 
 
@@ -146,30 +146,30 @@ I ordered a Nino TNC kit from Hamserve for £35 and had it knocked up in an hour
 
 The [build instructions](https://tarpn.net/t/nino-tnc/n9600a/n9600a4r3/n9600a4r3-assembly.html) at TAPR are very good, so no need to go over that, as were the setting to work instructions. For completeness the [operator instructions](https://tarpn.net/t/nino-tnc/n9600a/n9600a_operation.html) are also linked here.
 
-I've managed to source an older PK-88 that may or may not work for testing with local stuff. This should arrive at some point and once I have enough hardware and confidence in the LinBPQ setup (it seems to be ok on Telnet) then I'll conduct some more thorough stuff
+I've managed to source an older PK-88 that may or may not work for testing with local stuff. This should arrive at some point and once I have enough hardware and confidence in the LinBPQ setup (it seems to be ok on Telnet) then I'll conduct some more thorough stuff.
 
 #### PMR Rig buying/setting up
 
-{{< callout type="warning" >}}
-  Not started
-{{< /callout >}}
+After a load of looking I settled on a rather ratty Tait T8110 of eBay. There is a lot of useful information on transceivers on the [OARC Wiki](https://wiki.oarc.uk/packet:transceivers). So it was just a matter of finding a suitably cheap transceiver and pressing the 'buy' button. Once it arrived I used the additional power cable and programming cable to do its thing. Then give it a local test to check there was RF coming out. All successful.
+
+Some useful resources for programming are also on the [wiki](https://wiki.oarc.uk/radios:tait_tm8100) that includes a basic packet setup that works. I did have a bit of a panic as the unit wouldn't change channels when it originally arrived, but wiping the memory and uploading the boilerplate from OARC worked.
 
 #### RF testing at home
 
 {{< callout type="warning" >}}
-  Not started
+  Sort of started. I was gifted an old PK-88 that needs a few cables and setting up. I'll do this in due course but apart from the cables it should work with my FT-817 so it'll confirm that the RF side of things is set up correctly. I'm not totally convinced they are as I have only accessed via Telnet. This will then be a bit of a demo unit
 {{< /callout >}}
 
 #### Coerce a few locals to try out the node
 
 {{< callout type="warning" >}}
-  Not started
+  Started having a few chats and there is some interest locally. So getting the node working is really important now. I'll book in a demo slot at the club in the spring
 {{< /callout >}}
 
 #### Linking to other nodes
 
-{{< callout type="warning" >}}
-  Not started
+{{< callout type="info" >}}
+  Sorted, of sorts. Basic linking has been done but things like mail forwarding need sorting out.
 {{< /callout >}}
 
 #### Box it all up and set it to work

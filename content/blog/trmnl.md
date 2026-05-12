@@ -1,6 +1,6 @@
 ---
 title: A kindle as a TrmNL?
-date: 2026-12-05
+date: 2026-05-12
 authors:
   - name: alex
     link: https://github.com/g7kse

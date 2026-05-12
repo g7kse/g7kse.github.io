@@ -16,16 +16,16 @@ I've been hankering after a [TRMNL](https://trmnl.com/) for a little while but n
 
 So, the kindle with a keyboard and page turning buttons became the one I read the book on. The other was ripe for farting around with. What I actually mean to say is wasting hours of time on. So here's the plan...
 
--[x] Jailbreak it
--[x] See if I can muster a crappy little application for it
--[x] Spend hours 'researching' (see also going doing interwebrabbitnetholes)
--[x] Turn it into a tighwads TRMNL
+✅ Jailbreak it
+✅ See if I can muster a crappy little application for it
+✅ Spend hours 'researching' (see also going doing interwebrabbitnetholes)
+✅ Turn it into a tighwads TRMNL
 
-Mission accomplished! End of post :-)
+Mission accomplished! End of post ☺️
 
 ### What did I do?
 
-There are plenty of sites that tell you how to Jailbreak these things. The crucial this is to know what the serial number is so you can confirm the model, so it'll give you have a chance of completing the job before you draw your pension
+There are plenty of sites that tell you how to Jailbreak these things. The crucial this is to know what the serial number is so you can confirm the model, so it'll ]give you have a chance of completing the job before you draw your pension
 
 1. [Kindle Modding](https://kindlemodding.org/jailbreaking/) was the guide I used
 2. Find out your model from [this webiste](https://en.bookfere.com/post/kindle-serial-number-lookup-model-identification.html)
@@ -63,7 +63,7 @@ volumes:
     storage:
 ```
 
-Once the service is up and running you need to find your sever in the browser ```http:IP ADDRESS:4567``` should do it. Log yourself in and what I did was turn on "Permit Auto Join" in the top right hand corner. 
+Once the service is up and running you need to find your sever in the browser ```https//:IP ADDRESS:4567``` should do it. Log yourself in and what I did was turn on "Permit Auto Join" in the top right hand corner. 
 
 Now this bit was a bit of a mystery, before I knew it there were loads of versions of my Kindle in the list. before I did anything else I turned off "Permit Auto Join" then deleted all but the last one.
 

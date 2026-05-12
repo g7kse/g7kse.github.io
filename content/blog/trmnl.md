@@ -8,7 +8,7 @@ authors:
 tags:
   - ePaper
   - kindle
-  -technology
+  - technology
 excludeSearch: true
 ---
 

@@ -16,10 +16,10 @@ I've been hankering after a [TRMNL](https://trmnl.com/) for a little while but n
 
 So, the kindle with a keyboard and page turning buttons became the one I read the book on. The other was ripe for farting around with. What I actually mean to say is wasting hours of time on. So here's the plan...
 
-✅ Jailbreak it
-✅ See if I can muster a crappy little application for it
-✅ Spend hours 'researching' (see also going doing interwebrabbitnetholes)
-✅ Turn it into a tighwads TRMNL
+✅ Jailbreak it  
+✅ See if I can muster a crappy little application for it  
+✅ Spend hours 'researching' (see also going doing interwebrabbitnetholes)  
+✅ Turn it into a tighwads TRMNL  
 
 Mission accomplished! End of post ☺️
 

@@ -27,7 +27,7 @@ menu:
     - name: About
       pageRef: /about
       weight: 2
-    - name: Contact ↗
+    - name: Contact
       url: "https://mastodon.radio/@g7kse"
       weight: 3
     - name: 3D Prints

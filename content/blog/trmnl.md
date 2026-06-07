@@ -1,5 +1,5 @@
 ---
-title: A kindle as a TrmNL?
+title: A kindle as a TRMNL?
 date: 2026-05-12
 authors:
   - name: alex

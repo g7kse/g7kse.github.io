@@ -1,5 +1,5 @@
-module github.com/imfing/hextra-starter-template
+module github.com/g7kse/website
 
-go 1.21
+go 1.26.2
 
-require github.com/imfing/hextra v0.8.6 // indirect
+require github.com/imfing/hextra v0.12.3 // indirect

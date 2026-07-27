@@ -18,3 +18,4 @@ A little job thats been hanging around is an antenna that is essentially portabl
 Its not exactly 'fine tuned' as there are some parts that just don't work at the moment. I've used a fairly heavy GRP tube for the radiating part and its just...too heavy. Perhaps some king of rod would be better that could be broken down into smaller rucksack size lengths with a clip or some arrangement that holds the cable.
 
 Plenty to play about with and it sort of works. So good fun to try these things out
+

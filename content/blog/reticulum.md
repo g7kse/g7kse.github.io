@@ -188,4 +188,4 @@ This is your choice really. But I use [MeshChatX](https://meshchatx.com) on the 
 
 I'd suggest looking at [Simon Phillip's stuff](https://www.youtube.com/@fotografm/videos). Here's a basic one to help you get started
 
-{{D2sfkqeyQyg}}
+{{<youtube D2sfkqeyQyg>}}

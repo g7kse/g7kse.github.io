@@ -181,11 +181,32 @@ The biggest isuue I had was with the LoRa module seemingly not connecting to any
 
 ### Desktop & Phone
 
-This is your choice really. But I use [MeshChatX](https://meshchatx.com) on the desktop and [Columba](https://columba.network) on the phone although [Sideband](https://unsigned.io/software/Sideband.html)
+This is your choice really. But I use [MeshChatX](https://meshchatx.com) on the desktop and [Columba](https://columba.network) on the phone although [Sideband](https://unsigned.io/software/Sideband.html) features quite a lot.
+
+With any of these there needs to be some configuration. As the LoRa side was being a pest I used the reliable TCP interface to start with. Then once that was functioning and nodes were appearing I think brought the LoRa bit back in. Funnily enough it works just as well with my basic setup. 
+
+So, I have turned off the TCP interfaces on the MeshChatX and Columba and they talk to the RPi via RF only. 
 
 
-### Soem handy videos
+### Some handy starter videos
 
 I'd suggest looking at [Simon Phillip's stuff](https://www.youtube.com/@fotografm/videos). Here's a basic one to help you get started
 
 {{<youtube D2sfkqeyQyg>}}
+
+
+### Ok so its working now what?
+
+The obvious question is 'So What?'. Why bother to do all this? I can message people anyway, why should i have another burden to manage? Well messaging is just one part, and as a raduo ham I seem to enjoy making it hard to contact other people :-)
+
+The messaging part is fun, but its only one element. The more interesting thing for me is the NomadNet part. This is like a small website that is part of the network. To have one of these I need to be a Node rather than a Peer. Its not entirely accurate but Peer = Person. Node = Computer.
+
+These littel web pages are written using a language called Micron. Coding by hand might be some peoples idea of fun, for me I prefer to see what is going on with an [editor](https://github.com/fr33n0w/micron-composer). But Simon does a nice video on displaying the ```rnstatus``` details on a page thats below. If you really want to add stuff then there are all sorts of add ons for [Chat Rooms](https://github.com/fr33n0w/thechatroom) or a [BBS](https://github.com/kc1awv/RetiBBS)
+
+{{<youtube GHZiMvpJhhw>}}
+
+So you can see that whilst Meshtastic and Meshcore are excellent, they are limited in comparison to Reticulum. There is a lot more to look at but its starts getting beyond my little brain. I'll stick to mucking about with what i have and it'll be running in th eloft so long as there is electricity and a functioning LoRa module.
+
+Here's a start er for you. The Nomad Net Index....
+
+![Nomad index](/img/nomadindex.png#centre)

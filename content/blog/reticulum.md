@@ -138,7 +138,7 @@ This shows us that everything is connecting and is a handy way to check on thing
 
 ### Config
 
-The biggest isuue I had was with the LoRa module seemingly not connecting to anything. Its worth sharing the config for the interfaces in case its useful elsewhere. My mroute was to use the [Liam Cottle RNode flasher](https://liamcottle.github.io/rnode-flasher/) and to use the advanced tools to check the statud of the node. This was very handy as the Wisblock doesn't have a screen. 
+The biggest isuue I had was with the LoRa module seemingly not connecting to anything. Its worth sharing the config for the interfaces in case its useful elsewhere. My route was to use the [Liam Cottle RNode flasher](https://liamcottle.github.io/rnode-flasher/) and to use the advanced tools to check the statud of the node. This was very handy as the Wisblock doesn't have a screen. 
 
 ```
       [[reticulum_will0w_dev]]
@@ -179,14 +179,13 @@ The biggest isuue I had was with the LoRa module seemingly not connecting to any
     
 ```
 
-
 ### Desktop & Phone
 
-This is your choice really. But I use [MeshChatX\](https://meshchatx.com) on the desktop and [Columba](https://columba.network) on the phone although [Sideband](https://unsigned.io/software/Sideband.html)
+This is your choice really. But I use [MeshChatX](https://meshchatx.com) on the desktop and [Columba](https://columba.network) on the phone although [Sideband](https://unsigned.io/software/Sideband.html)
 
 
 ### Soem handy videos
 
 I'd suggest looking at [Simon Phillip's stuff](https://www.youtube.com/@fotografm/videos). Here's a basic one to help you get started
 
-{{Youtube D2sfkqeyQyg}}
+{{D2sfkqeyQyg}}

@@ -140,7 +140,7 @@ This shows us that everything is connecting and is a handy way to check on thing
 
 The biggest isuue I had was with the LoRa module seemingly not connecting to anything. Its worth sharing the config for the interfaces in case its useful elsewhere. My mroute was to use the [Liam Cottle RNode flasher](https://liamcottle.github.io/rnode-flasher/) and to use the advanced tools to check the statud of the node. This was very handy as the Wisblock doesn't have a screen. 
 
-    ```
+```
       [[reticulum_will0w_dev]]
     type = BackboneInterface
     enabled = yes

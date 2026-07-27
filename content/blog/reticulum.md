@@ -62,7 +62,8 @@ flowchart TD
     style Desktop_Side fill:#e8f5e9
     style RPi_Node fill:#fff3e0
     style Network_Backend fill:#f3e5f5
-    ```
+    
+```
 
 ### Software
 
@@ -175,7 +176,8 @@ The biggest isuue I had was with the LoRa module seemingly not connecting to any
     bandwidth = 125000
     spreadingfactor = 9
     codingrate = 5
-    ```
+    
+```
 
 
 ### Desktop & Phone

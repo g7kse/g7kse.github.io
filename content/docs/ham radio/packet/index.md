@@ -75,9 +75,9 @@ One user can talk to another user either directly, through another node or throu
 
 ```mermaid
 flowchart LR 
-  A (Station A) -> B (nearby node)
-  B (nearby mode) -> C (another node)
-  C (another node) -> D (Station B)
+  A (Station A) --> B (nearby node)
+  B (nearby mode) --> C (another node)
+  C (another node) --> D (Station B)
 ```
 
 All this assumes there is no internet connection, which there generally is nowadays. For now we'll keep it all RF, but there is an internet component. The 'QSO' follows a set routine. There is a conversation between nodes
@@ -230,7 +230,7 @@ So far everything is still fairly retro. To conclude this some of the more usefu
 all the commands can be abbreviated to a sinlge upper or lower case letter, it doesn't matter
 
 ### Modern advances
-Internet linking is a clear modern addition, but also browser based interaction is possible through [Frames](static/img/frames.png#centre). This is an emerging application from [OARC](https://wiki.oarc.uk/packet:frames). It runs in your browser and is more like a modern messaging system and users of Meshtastic and Meshcore will find that the barrier to enrty and use is now a lot lower. 
+Internet linking is a clear modern addition, but also browser based interaction is possible through ![Frames](/img/frames.png#centre). This is an emerging application from [OARC](https://wiki.oarc.uk/packet:frames). It runs in your browser and is more like a modern messaging system and users of Meshtastic and Meshcore will find that the barrier to enrty and use is now a lot lower. 
 
 There are also Android and iOS apps which take packet out of the termical and into your pocket. These developments are well worth keeping an eye on
 
@@ -253,8 +253,3 @@ By no means and exhaustive list but links to things I found useful to read up on
 [Nino TNC - Information for building and operating](https://tarpn.net/t/nino-tnc/nino-tnc.html)  
 [Nino TNC UK supply through Hamserve](https://www.hamserve.uk/tarpn-ninotnc-n9600a/)  
 
-### Map of UK packet nodes (including APRS)
-
----
-<iframe style="width: 100%; height: 900px; border: 0;" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/packet-nodes_1340087?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=true&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.fr/en/map/packet-nodes_1340087?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=true&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true">See full screen</a></p>
----

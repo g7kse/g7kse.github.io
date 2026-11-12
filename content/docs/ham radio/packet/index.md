@@ -11,19 +11,17 @@ tags:
   - data
 ---
 
-{{< callout type="warning" >}}
-  Work In Progress
-{{< /callout >}}
+### Introduction
 
-At the end of 2025 and beginning of 2026 I started to have a play around with some older technologies. ones that i thought might be dead and buried. One of those was packet (or AX25). It turns out that this mode is still in use and that there are quite a few nodes kicking about and there are even quite a few wikis kicking about offering help to get going.
+At the end of 2025 and beginning of 2026 I started to have a play around with some older technologies. ones that i thought might be dead and buried. One of those was packet (or AX25). It turns out that this mode is still in use and that there are quite a few nodes kicking about and there are even quite a few wikis kicking about offering help to get going. 
 
-It also turns out that packet is still a 'tech heavy' mode. There is a lot of jargon and complicated setup, which is the opposite to what I found with the more modern interpretations of this like [Meshtastic BBS's](https://g7kse.co.uk/docs/ham-radio/meshbbs/). This was not going to be an evening project. So these notes are a sort of reminder for what I ended up doing. If something doesn't quite work I'll amend the notes to reflect the changes as I go along. Hence its work in progress.
+So what brought me to it. Well it was meshtastic really and the [Meshtastic BBS's](https://g7kse.co.uk/docs/ham-radio/meshbbs/). This was not going to be an evening project. So these notes are a sort of reminder for what I ended up doing. If something doesn't quite work I'll amend the notes to reflect the changes as I go along. Hence its work in progress.
 
 ### Summary
 
 As my experience in packet is very limited and circa 1990 I chose to step into it slowly. Turns out it was slower than even I imagined. The rough order of play is as follows:
 
-1. Use a zero cost approach and see what I can get. I have a computer and an IC7300 for HF and an FT817 for QRP stuff that also has a data capability. This means using a sound modem instead of a hardware TNC for audio work. The goal is to connect to another node and poke about. Either with HF or VHF. If I can do this then...
+1. Use a low cost approach and see what I can get. I have a computer and an IC7300 for HF and an FT817 for QRP stuff that also has a data capability. This means using a sound modem instead of a hardware TNC for audio work. The goal is to connect to another node and poke about. Either with HF or VHF. If I can do this then...
 2. Get hold of a hardware TNC (preferably 2) and liberate an under utilised RPi 3 to build a node. Do some local testing to connect into the node, firstly with Telnet and then with RF to check that the node can be accessed and there's nothing daft going on.
 3. Get hold of an old PMR rig and build a proper node
 
@@ -36,14 +34,76 @@ Lets break this down a bit so it all makes sense. These are the basic steps of w
 ✅ - Preliminary Raspberry Pi node setup (LinBPQ)  
 ✅ - Hardware TNC buying/building  
 ✅ - PMR Rig buying/setting up  
-🚧 - RF testing at home  
-🚧 - Coerce a few locals to try out the node  
+✅  - RF testing at home  
+✅ - Coerce a few locals to try out the node  
 ✅ - Linking to other nodes  
-❌ - Box it all up and set it to work  
+✅  - Box it all up and set it to work  
+
+So for getting going it's all done. My node in [GB7KSE](https://ukpacketradio.network/nodes:gb7kse) on VHF and I have a dabble every now and again on HF. VHF Details are:
+
+{{< callout type="info" >}}
+  Centre	Frequency   144.925 MHz
+  Polarisation        Vertical
+  Power	              25 W
+  Mode                AFSK AX.25 1k2bd
+  Nino TNC setting    0110
+{{< /callout >}}
+
+These are the basic details. The node is linked to [GB7FCI](https://ukpacketradio.network/nodes:gb7fci) for [Frames](http://frames.oarc.uk) (a kind of WhatsApp style messaging system) and to [GB7DBH](https://ukpacketradio.network/nodes:gb7bdh) for mail. Both of these are via internet for now.
+
+The bottom line is packet is alive and well. Its not at complete coverage but there is plenty to make use of even if it a mix of RF and AXIP (Internet)
+
+<iframe style="border:1px #FFFFFF none" src="https://nodes.ukpacketradio.network/maps/packet" title="iFrame" width="100%" height="600px" scrolling="no" frameborder="no" allow="fullscreen"></iframe>
 
 
+### Common setup
+Before I get into a bit of detail there is a ton of stuff available. But...there is stuff all over the place, of various qualities. So getting up to speed used a load of different resources. These are all listed at the bottom of the page. 
 
-#### No cost sound modem
+What doi I need? Well, there needs to be something that does the RF, something that makes the right noises and something that displays the noises as something readable. A simplistic flowchart would be:
+
+```mermaid
+flowchart LR
+  A(PC/Pi) --> |RS232/USB|B(TNC)
+  B(TNC) --> |Audio + PTT|C(Radio)
+```
+
+* A Terminal Node Controller (TNC) is the modem and packet controller. It does all the interfacing between the computer by building the AX25 frames, adding the CRC and leys then instructs the radio to PTT
+* The PC talks to the TNC through a terminal program in either Command Mode (The TNC does all the frame building and decoding - used when there is a 'dumb' terminal at your end) or KISS Mode (The TNC just passes data to the PC and teh PC does teh rest of the work). More modern stuff is KISS. The wierd thing about a TNC is that it can be either a physical thing (Hardware) or a bit of Software (Software TNC)
+* The packet is passed to the radio at either 300 baud for HF, 1200 baud for VHF or 9600 baud for UHF as Audio Frequency Shift Keying (AFSK)
+
+One user can talk to another user either directly, through another node or through a repeater, called a digipeater. The diagram below shows Station A wanting to connect to Station B but needs to go through 2 other nodes to get there. You can substitute node with digipeater if you want (the difference being the digipeater is only there to digitally repeat the data. A node is another station that might have a user at the other end). In either instance the network gives the boost.
+
+```mermaid
+flowchart LR 
+  A (Station A) ->> B (nearby node)
+  B (nearby mode) ->> C (another node)
+  C (another node) ->> D (Station B)
+```
+
+All this assumes there is no internet connection, which there generally is nowadays. For now we'll keep it all RF, but there is an internet component. The 'QSO' follows a set routine. There is a conversation between nodes
+
+```mermaid
+sequenceDiagram
+  Station A ->>+ Station B: SABM (Connection Request)
+  Station B ->>+ Station A: UA (Accepted)
+  Station A ->>+ Station B: Data
+  Station B ->>+ Station A: RR (Ack)
+  Station A ->>+ Station B: DISC (Disconnect)
+  Station B ->>+ Station A: UA (Done)
+```
+
+Like all methods there are nuances on HF there is and additional component called IL2P that adds forward error correction. You can find these on 40m but check on the map and look at the HF stations in particular. Slow but more robust than you might think.
+
+{{< callout >}}
+  *A Question* Do you want to use 
+  1. HF?
+  2. VHF?
+  3. UHF?
+{{< /callout >}}
+
+I started out with HF because I have an HF rig that is capable of doing the work. I also didn't have a hardware TNC. I also use a Linux computer (Ubuntu). My notes reflect that pathway. Later I bought a couple of Nino TNC's and a old PMR radio because I wanted to set up my own node. More on that later.
+
+#### Low entry bar - HF (40m) with a softwatre TNC
 
 There are a couple of things needed for this. One is the sound modem itself, the other it the way we need to interact with it. After a bit of reading up on [Hibby's Guide](https://guide.hibbian.org/) and the [Online Amateur Radio Club (OARC) Wiki](https://wiki.oarc.uk/packet) I plumped for [QtSoundModem](https://www.cantab.net/users/john.wiseman/Documents/QtSoundModem.html) and [QtTermTCP](https://www.cantab.net/users/john.wiseman/Documents/QtTermTCP.html). They seem to be fairly common and developed by teh same person who developed [LinBPQ](https://www.cantab.net/users/john.wiseman/Documents/BPQ32.html) so I assumed it's all going to be straightforward. Ha!
 
@@ -117,7 +177,7 @@ Once in you can use the ```?``` command to find out more or make use of the [Lin
 ![QtTermTCP News](/img/packet_news.png#centre)
 
 
-#### Preliminary Raspberry Pi node setup (LinBPQ)
+#### Setting up a node (LinBPQ)
 
 This could have been easy, but wasn't. First I flashed a fresh version of Raspbian Lite on my Pi and tried to install everything via the same Hibby repo as above.  
 
@@ -139,10 +199,7 @@ Seeing this give me some confidence that LinBPQ is setup correctly for basic ope
 
 #### Hardware TNC buying/building
 
-✅ - Nino TNC
-🚧 - Second TNC (needed for local testing on VHF)
-
-I ordered a Nino TNC kit from Hamserve for £35 and had it knocked up in an hour or so. despite checking things I still managed to solder one part in wrong, so it took me a while to de-solder it without killing the board.
+I ordered a Nino TNC kit from Hamserve for £35 and had it knocked up in an hour or so. Despite checking things I still managed to solder one part in wrong, so it took me a while to de-solder it without killing the board. But after a minor mix up it all works fine. 
 
 The [build instructions](https://tarpn.net/t/nino-tnc/n9600a/n9600a4r3/n9600a4r3-assembly.html) at TAPR are very good, so no need to go over that, as were the setting to work instructions. For completeness the [operator instructions](https://tarpn.net/t/nino-tnc/n9600a/n9600a_operation.html) are also linked here.
 
@@ -154,29 +211,28 @@ After a load of looking I settled on a rather ratty Tait T8110 of eBay. There is
 
 Some useful resources for programming are also on the [wiki](https://wiki.oarc.uk/radios:tait_tm8100) that includes a basic packet setup that works. I did have a bit of a panic as the unit wouldn't change channels when it originally arrived, but wiping the memory and uploading the boilerplate from OARC worked.
 
-#### RF testing at home
+### Connecting to others
+So far everything is still fairly retro. To conclude this some of the more useful terminal commands are below. There is a much longer [Cheat Sheet](https://cheatography.com/gcremerius/cheat-sheets/bpq-user-commands/) available but here are some common ones
 
-{{< callout type="warning" >}}
-  Sort of started. I was gifted an old PK-88 that needs a few cables and setting up. I'll do this in due course but apart from the cables it should work with my FT-817 so it'll confirm that the RF side of things is set up correctly. I'm not totally convinced they are as I have only accessed via Telnet. This will then be a bit of a demo unit
-{{< /callout >}}
+*connect* Connect to a node or station
+*nodes* Nodes known to this node
+*routes* Neighbours the node can reach
+*mheard* Stations heard per port
+*port* Configured ports
+*users* Who is using the node
+*links* Cureent AX25 sessions
+*info* Sysops node description
+*bbs* Enter mailbox (contains mail to user or bulletins)
+*chat* Enter chat
+*bye* diconnect froom the node
+*?* help
 
-#### Coerce a few locals to try out the node
+all the commands can be abbreviated to a sinlge upper or lower case letter, it doesn't matter
 
-{{< callout type="warning" >}}
-  Started having a few chats and there is some interest locally. So getting the node working is really important now. I'll book in a demo slot at the club in the spring
-{{< /callout >}}
+### Modern advances
+Internet linking is a clear modern addition, but also browser based interaction is possible through [Frames](/img/frames.png#centre). This is an emerging application from [OARC](https://wiki.oarc.uk/packet:frames). It runs in your browser and is more like a modern messaging system and users of Meshtastic and Meshcore will find that the barrier to enrty and use is now a lot lower. 
 
-#### Linking to other nodes
-
-{{< callout type="info" >}}
-  Sorted, of sorts. Basic linking has been done but things like mail forwarding need sorting out.
-{{< /callout >}}
-
-#### Box it all up and set it to work
-
-{{< callout type="warning" >}}
-  Not started
-{{< /callout >}}
+There are also Android and iOS apps which take packet out of the termical and into your pocket. These developments are well worth keeping an eye on
 
 ### Useful references
 By no means and exhaustive list but links to things I found useful to read up on. There are quite a few videos floating about, some of them sort of conflict or overlap with others but in general The Modern Ham and PE1RRR ones were the ones I found most useful. 

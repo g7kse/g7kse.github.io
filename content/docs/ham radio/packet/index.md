@@ -75,9 +75,9 @@ One user can talk to another user either directly, through another node or throu
 
 ```mermaid
 flowchart LR 
-  A (Station A) --> B (nearby node)
-  B (nearby mode) --> C (another node)
-  C (another node) --> D (Station B)
+  A(Station A) --> B(nearby node)
+  B(nearby node) --> C(another node)
+  C(another node) --> D(Station B)
 ```
 
 All this assumes there is no internet connection, which there generally is nowadays. For now we'll keep it all RF, but there is an internet component. The 'QSO' follows a set routine. There is a conversation between nodes

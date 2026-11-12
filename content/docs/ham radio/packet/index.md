@@ -68,16 +68,16 @@ flowchart LR
 ```
 
 * A Terminal Node Controller (TNC) is the modem and packet controller. It does all the interfacing between the computer by building the AX25 frames, adding the CRC and leys then instructs the radio to PTT
-* The PC talks to the TNC through a terminal program in either Command Mode (The TNC does all the frame building and decoding - used when there is a 'dumb' terminal at your end) or KISS Mode (The TNC just passes data to the PC and teh PC does teh rest of the work). More modern stuff is KISS. The wierd thing about a TNC is that it can be either a physical thing (Hardware) or a bit of Software (Software TNC)
+* The PC talks to the TNC through a terminal program in either Command Mode (The TNC does all the frame building and decoding - used when there is a 'dumb' terminal at your end) or KISS Mode (The TNC just passes data to the PC and teh PC does the rest of the work). More modern stuff is KISS. The wierd thing about a TNC is that it can be either a physical thing (Hardware) or a bit of Software (Software TNC)
 * The packet is passed to the radio at either 300 baud for HF, 1200 baud for VHF or 9600 baud for UHF as Audio Frequency Shift Keying (AFSK)
 
 One user can talk to another user either directly, through another node or through a repeater, called a digipeater. The diagram below shows Station A wanting to connect to Station B but needs to go through 2 other nodes to get there. You can substitute node with digipeater if you want (the difference being the digipeater is only there to digitally repeat the data. A node is another station that might have a user at the other end). In either instance the network gives the boost.
 
 ```mermaid
 flowchart LR 
-  A (Station A) ->> B (nearby node)
-  B (nearby mode) ->> C (another node)
-  C (another node) ->> D (Station B)
+  A (Station A) -> B (nearby node)
+  B (nearby mode) -> C (another node)
+  C (another node) -> D (Station B)
 ```
 
 All this assumes there is no internet connection, which there generally is nowadays. For now we'll keep it all RF, but there is an internet component. The 'QSO' follows a set routine. There is a conversation between nodes
@@ -230,7 +230,7 @@ So far everything is still fairly retro. To conclude this some of the more usefu
 all the commands can be abbreviated to a sinlge upper or lower case letter, it doesn't matter
 
 ### Modern advances
-Internet linking is a clear modern addition, but also browser based interaction is possible through [Frames](/img/frames.png#centre). This is an emerging application from [OARC](https://wiki.oarc.uk/packet:frames). It runs in your browser and is more like a modern messaging system and users of Meshtastic and Meshcore will find that the barrier to enrty and use is now a lot lower. 
+Internet linking is a clear modern addition, but also browser based interaction is possible through [Frames](static/img/frames.png#centre). This is an emerging application from [OARC](https://wiki.oarc.uk/packet:frames). It runs in your browser and is more like a modern messaging system and users of Meshtastic and Meshcore will find that the barrier to enrty and use is now a lot lower. 
 
 There are also Android and iOS apps which take packet out of the termical and into your pocket. These developments are well worth keeping an eye on
 
